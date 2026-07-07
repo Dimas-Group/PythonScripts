@@ -28,3 +28,6 @@ plt.ylabel('Intensity')
 plt.title(f'Horizontal Line Profile (row {row_index})')
 plt.xlim(0, cols - 1)
 plt.show()
+
+
+#run using "C:\Users\pgmi2\AppData\Local\Programs\Python\Python36\python.exe" "c:\Users\pgmi2\camera_script\orientation_check.py"
