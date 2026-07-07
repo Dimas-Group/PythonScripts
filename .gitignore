@@ -1,2 +1,4 @@
 venv/
 venv36/
+__pycache__/
+*.npy
