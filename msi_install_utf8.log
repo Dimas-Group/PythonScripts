@@ -1,0 +1,912 @@
+﻿=== Verbose logging started: 7/7/2026  12:02:17  Build type: SHIP UNICODE 5.00.10011.00  Calling process: C:\Windows\system32\msiexec.exe ===
+MSI (c) (FC:08) [12:02:17:888]: Resetting cached policy values
+MSI (c) (FC:08) [12:02:17:888]: Machine policy value 'Debug' is 0
+MSI (c) (FC:08) [12:02:17:888]: ******* RunEngine:
+           ******* Product: C:\Users\pgmi2\Downloads\PyCapture2_extracted\PyCapture2-2.13.61.win-amd64-py3.6.msi
+           ******* Action: 
+           ******* CommandLine: **********
+MSI (c) (FC:08) [12:02:17:888]: Client-side and UI is none or basic: Running entire install on the server.
+MSI (c) (FC:08) [12:02:17:888]: Grabbed execution mutex.
+MSI (c) (FC:08) [12:02:17:893]: Cloaking enabled.
+MSI (c) (FC:08) [12:02:17:893]: Attempting to enable all disabled privileges before calling Install on Server
+MSI (c) (FC:08) [12:02:17:895]: Incrementing counter to disable shutdown. Counter after increment: 0
+MSI (s) (18:F4) [12:02:17:898]: Running installation inside multi-package transaction C:\Users\pgmi2\Downloads\PyCapture2_extracted\PyCapture2-2.13.61.win-amd64-py3.6.msi
+MSI (s) (18:F4) [12:02:17:898]: Grabbed execution mutex.
+MSI (s) (18:F4) [12:02:17:900]: Resetting cached policy values
+MSI (s) (18:F4) [12:02:17:900]: Machine policy value 'Debug' is 0
+MSI (s) (18:F4) [12:02:17:900]: ******* RunEngine:
+           ******* Product: C:\Users\pgmi2\Downloads\PyCapture2_extracted\PyCapture2-2.13.61.win-amd64-py3.6.msi
+           ******* Action: 
+           ******* CommandLine: **********
+MSI (s) (18:F4) [12:02:17:900]: Machine policy value 'DisableUserInstalls' is 0
+MSI (s) (18:F4) [12:02:17:912]: Note: 1: 2203 2: C:\Windows\Installer\inprogressinstallinfo.ipi 3: -2147287038 
+MSI (s) (18:F4) [12:02:17:912]: SRSetRestorePoint skipped for this transaction.
+MSI (s) (18:F4) [12:02:17:912]: Note: 1: 1402 2: HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer 3: 2 
+MSI (s) (18:F4) [12:02:17:913]: Access database with Impersonation
+MSI (s) (18:F4) [12:02:17:913]: File will have security applied from OpCode.
+MSI (s) (18:F4) [12:02:17:932]: SOFTWARE RESTRICTION POLICY: Verifying package --> 'C:\Users\pgmi2\Downloads\PyCapture2_extracted\PyCapture2-2.13.61.win-amd64-py3.6.msi' against software restriction policy
+MSI (s) (18:F4) [12:02:17:932]: Note: 1: 2262 2: DigitalSignature 3: -2147287038 
+MSI (s) (18:F4) [12:02:17:932]: SOFTWARE RESTRICTION POLICY: C:\Users\pgmi2\Downloads\PyCapture2_extracted\PyCapture2-2.13.61.win-amd64-py3.6.msi is not digitally signed
+MSI (s) (18:F4) [12:02:17:933]: SOFTWARE RESTRICTION POLICY: C:\Users\pgmi2\Downloads\PyCapture2_extracted\PyCapture2-2.13.61.win-amd64-py3.6.msi is permitted to run at the 'unrestricted' authorization level.
+MSI (s) (18:F4) [12:02:17:933]: MSCOREE not loaded loading copy from system32
+MSI (s) (18:F4) [12:02:17:935]: End dialog not enabled
+MSI (s) (18:F4) [12:02:17:935]: Original package ==> C:\Users\pgmi2\Downloads\PyCapture2_extracted\PyCapture2-2.13.61.win-amd64-py3.6.msi
+MSI (s) (18:F4) [12:02:17:935]: Package we're running from ==> C:\Windows\Installer\23872633.msi
+MSI (s) (18:F4) [12:02:17:935]: APPCOMPAT: Compatibility mode property overrides found.
+MSI (s) (18:F4) [12:02:17:936]: APPCOMPAT: looking for appcompat database entry with ProductCode '{2384BC12-775D-4353-9ACE-3D26D6D935D2}'.
+MSI (s) (18:F4) [12:02:17:936]: APPCOMPAT: no matching ProductCode found in database.
+MSI (s) (18:F4) [12:02:17:947]: Machine policy value 'TransformsSecure' is 0
+MSI (s) (18:F4) [12:02:17:947]: User policy value 'TransformsAtSource' is 0
+MSI (s) (18:F4) [12:02:17:948]: Note: 1: 2262 2: MsiFileHash 3: -2147287038 
+MSI (s) (18:F4) [12:02:17:948]: Machine policy value 'DisablePatch' is 0
+MSI (s) (18:F4) [12:02:17:948]: Machine policy value 'AllowLockdownPatch' is 0
+MSI (s) (18:F4) [12:02:17:948]: Machine policy value 'DisableMsi' is 0
+MSI (s) (18:F4) [12:02:17:948]: Machine policy value 'AlwaysInstallElevated' is 0
+MSI (s) (18:F4) [12:02:17:948]: User policy value 'AlwaysInstallElevated' is 0
+MSI (s) (18:F4) [12:02:17:948]: Running product '{2384BC12-775D-4353-9ACE-3D26D6D935D2}' with user privileges: It's not assigned.
+MSI (s) (18:F4) [12:02:17:948]: Machine policy value 'DisableLUAPatching' is 0
+MSI (s) (18:F4) [12:02:17:948]: Machine policy value 'DisableFlyWeightPatching' is 0
+MSI (s) (18:F4) [12:02:17:949]: APPCOMPAT: looking for appcompat database entry with ProductCode '{2384BC12-775D-4353-9ACE-3D26D6D935D2}'.
+MSI (s) (18:F4) [12:02:17:949]: APPCOMPAT: no matching ProductCode found in database.
+MSI (s) (18:F4) [12:02:17:950]: Transforms are not secure.
+MSI (s) (18:F4) [12:02:17:950]: PROPERTY CHANGE: Adding MsiLogFileLocation property. Its value is 'C:\Users\pgmi2\camera_script\msi_install.log'.
+MSI (s) (18:F4) [12:02:17:950]: Command Line: REBOOT=ReallySuppress CURRENTDIRECTORY=C:\Users\pgmi2\Downloads CLIENTUILEVEL=3 CLIENTPROCESSID=33020 
+MSI (s) (18:F4) [12:02:17:950]: PROPERTY CHANGE: Adding PackageCode property. Its value is '{A0E54EF4-D0BE-4941-B253-6474EF4CF444}'.
+MSI (s) (18:F4) [12:02:17:950]: Product Code passed to Engine.Initialize:           ''
+MSI (s) (18:F4) [12:02:17:950]: Product Code from property table before transforms: '{2384BC12-775D-4353-9ACE-3D26D6D935D2}'
+MSI (s) (18:F4) [12:02:17:950]: Product Code from property table after transforms:  '{2384BC12-775D-4353-9ACE-3D26D6D935D2}'
+MSI (s) (18:F4) [12:02:17:950]: Product not registered: beginning first-time install
+MSI (s) (18:F4) [12:02:17:950]: Product {2384BC12-775D-4353-9ACE-3D26D6D935D2} is not managed.
+MSI (s) (18:F4) [12:02:17:950]: Machine policy value 'AlwaysInstallElevated' is 0
+MSI (s) (18:F4) [12:02:17:950]: User policy value 'AlwaysInstallElevated' is 0
+MSI (s) (18:F4) [12:02:17:950]: MSI_LUA: Installation UI level is silent, no credential elevation is possible
+MSI (s) (18:F4) [12:02:17:951]: PROPERTY CHANGE: Adding ProductState property. Its value is '-1'.
+MSI (s) (18:F4) [12:02:17:951]: Entering CMsiConfigurationManager::SetLastUsedSource.
+MSI (s) (18:F4) [12:02:17:951]: User policy value 'SearchOrder' is 'nmu'
+MSI (s) (18:F4) [12:02:17:951]: Adding new sources is allowed.
+MSI (s) (18:F4) [12:02:17:951]: PROPERTY CHANGE: Adding PackagecodeChanging property. Its value is '1'.
+MSI (s) (18:F4) [12:02:17:951]: Package name extracted from package path: 'PyCapture2-2.13.61.win-amd64-py3.6.msi'
+MSI (s) (18:F4) [12:02:17:951]: Package to be registered: 'PyCapture2-2.13.61.win-amd64-py3.6.msi'
+MSI (s) (18:F4) [12:02:17:951]: Note: 1: 2262 2: Error 3: -2147287038 
+MSI (s) (18:F4) [12:02:17:951]: Note: 1: 2262 2: AdminProperties 3: -2147287038 
+MSI (s) (18:F4) [12:02:17:951]: Machine policy value 'AlwaysInstallElevated' is 0
+MSI (s) (18:F4) [12:02:17:951]: User policy value 'AlwaysInstallElevated' is 0
+MSI (s) (18:F4) [12:02:17:953]: Running product '{2384BC12-775D-4353-9ACE-3D26D6D935D2}' with user privileges: It's not assigned.
+MSI (s) (18:F4) [12:02:17:953]: PROPERTY CHANGE: Adding REBOOT property. Its value is 'ReallySuppress'.
+MSI (s) (18:F4) [12:02:17:953]: PROPERTY CHANGE: Adding CURRENTDIRECTORY property. Its value is 'C:\Users\pgmi2\Downloads'.
+MSI (s) (18:F4) [12:02:17:953]: PROPERTY CHANGE: Adding CLIENTUILEVEL property. Its value is '3'.
+MSI (s) (18:F4) [12:02:17:953]: PROPERTY CHANGE: Adding CLIENTPROCESSID property. Its value is '33020'.
+MSI (s) (18:F4) [12:02:17:953]: Machine policy value 'DisableAutomaticApplicationShutdown' is 0
+MSI (s) (18:F4) [12:02:17:953]: PROPERTY CHANGE: Adding MsiRestartManagerSessionKey property. Its value is '2209ef6ba885164e9cf14dc33b8014c6'.
+MSI (s) (18:F4) [12:02:17:953]: RESTART MANAGER: Session opened.
+MSI (s) (18:F4) [12:02:17:953]: PROPERTY CHANGE: Adding MsiSystemRebootPending property. Its value is '1'.
+MSI (s) (18:F4) [12:02:17:953]: TRANSFORMS property is now: 
+MSI (s) (18:F4) [12:02:17:953]: PROPERTY CHANGE: Adding VersionDatabase property. Its value is '200'.
+MSI (s) (18:F4) [12:02:17:954]: SHELL32::SHGetFolderPath returned: C:\Users\pgmi2\AppData\Roaming
+MSI (s) (18:F4) [12:02:17:954]: SHELL32::SHGetFolderPath returned: C:\Users\pgmi2\Favorites
+MSI (s) (18:F4) [12:02:17:955]: SHELL32::SHGetFolderPath returned: C:\Users\pgmi2\AppData\Roaming\Microsoft\Windows\Network Shortcuts
+MSI (s) (18:F4) [12:02:17:955]: SHELL32::SHGetFolderPath returned: C:\Users\pgmi2\OneDrive\Documents
+MSI (s) (18:F4) [12:02:17:956]: SHELL32::SHGetFolderPath returned: C:\Users\pgmi2\AppData\Roaming\Microsoft\Windows\Printer Shortcuts
+MSI (s) (18:F4) [12:02:17:956]: SHELL32::SHGetFolderPath returned: C:\Users\pgmi2\AppData\Roaming\Microsoft\Windows\Recent
+MSI (s) (18:F4) [12:02:17:957]: SHELL32::SHGetFolderPath returned: C:\Users\pgmi2\AppData\Roaming\Microsoft\Windows\SendTo
+MSI (s) (18:F4) [12:02:17:957]: SHELL32::SHGetFolderPath returned: C:\Users\pgmi2\AppData\Roaming\Microsoft\Windows\Templates
+MSI (s) (18:F4) [12:02:17:957]: SHELL32::SHGetFolderPath returned: C:\ProgramData
+MSI (s) (18:F4) [12:02:17:958]: SHELL32::SHGetFolderPath returned: C:\Users\pgmi2\AppData\Local
+MSI (s) (18:F4) [12:02:17:958]: SHELL32::SHGetFolderPath returned: C:\Users\pgmi2\OneDrive\Pictures
+MSI (s) (18:F4) [12:02:17:960]: SHELL32::SHGetFolderPath returned: C:\Users\pgmi2\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Administrative Tools
+MSI (s) (18:F4) [12:02:17:960]: SHELL32::SHGetFolderPath returned: C:\Users\pgmi2\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+MSI (s) (18:F4) [12:02:17:961]: SHELL32::SHGetFolderPath returned: C:\Users\pgmi2\AppData\Roaming\Microsoft\Windows\Start Menu\Programs
+MSI (s) (18:F4) [12:02:17:962]: SHELL32::SHGetFolderPath returned: C:\Users\pgmi2\AppData\Roaming\Microsoft\Windows\Start Menu
+MSI (s) (18:F4) [12:02:17:962]: SHELL32::SHGetFolderPath returned: C:\Users\pgmi2\OneDrive\Desktop
+MSI (s) (18:F4) [12:02:17:963]: SHELL32::SHGetFolderPath returned: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools
+MSI (s) (18:F4) [12:02:17:964]: SHELL32::SHGetFolderPath returned: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup
+MSI (s) (18:F4) [12:02:17:964]: SHELL32::SHGetFolderPath returned: C:\ProgramData\Microsoft\Windows\Start Menu\Programs
+MSI (s) (18:F4) [12:02:17:965]: SHELL32::SHGetFolderPath returned: C:\ProgramData\Microsoft\Windows\Start Menu
+MSI (s) (18:F4) [12:02:17:965]: SHELL32::SHGetFolderPath returned: C:\Users\Public\Desktop
+MSI (s) (18:F4) [12:02:17:966]: SHELL32::SHGetFolderPath returned: C:\Windows\Fonts
+MSI (s) (18:F4) [12:02:17:966]: Note: 1: 2898 2: MS Sans Serif 3: MS Sans Serif 4: 0 5: 16 
+MSI (s) (18:F4) [12:02:17:972]: Note: 1: 1402 2: HKEY_CURRENT_USER\Software\Microsoft\MS Setup (ACME)\User Info 3: 2 
+MSI (s) (18:F4) [12:02:17:972]: PROPERTY CHANGE: Adding USERNAME property. Its value is 'pgmi2026@outlook.com'.
+MSI (s) (18:F4) [12:02:17:972]: Note: 1: 1402 2: HKEY_CURRENT_USER\Software\Microsoft\MS Setup (ACME)\User Info 3: 2 
+MSI (s) (18:F4) [12:02:17:972]: PROPERTY CHANGE: Adding DATABASE property. Its value is 'C:\Windows\Installer\23872633.msi'.
+MSI (s) (18:F4) [12:02:17:972]: PROPERTY CHANGE: Adding OriginalDatabase property. Its value is 'C:\Users\pgmi2\Downloads\PyCapture2_extracted\PyCapture2-2.13.61.win-amd64-py3.6.msi'.
+MSI (s) (18:F4) [12:02:17:972]: Machine policy value 'MsiDisableEmbeddedUI' is 0
+MSI (s) (18:F4) [12:02:17:972]: EEUI - Disabling MsiEmbeddedUI for service because it's not a quiet/basic install
+MSI (s) (18:F4) [12:02:17:973]: Note: 1: 2262 2: PatchPackage 3: -2147287038 
+MSI (s) (18:F4) [12:02:17:973]: Machine policy value 'DisableRollback' is 0
+MSI (s) (18:F4) [12:02:17:973]: User policy value 'DisableRollback' is 0
+MSI (s) (18:F4) [12:02:17:973]: PROPERTY CHANGE: Adding UILevel property. Its value is '2'.
+MSI (s) (18:F4) [12:02:17:973]: Note: 1: 2262 2: Font 3: -2147287038 
+=== Logging started: 7/7/2026  12:02:17 ===
+MSI (s) (18:F4) [12:02:17:973]: Note: 1: 2203 2: C:\Windows\Installer\inprogressinstallinfo.ipi 3: -2147287038 
+MSI (s) (18:F4) [12:02:17:973]: Note: 1: 2262 2: LaunchCondition 3: -2147287038 
+MSI (s) (18:F4) [12:02:17:973]: APPCOMPAT: [DetectVersionLaunchCondition] Launch condition already passes.
+MSI (s) (18:F4) [12:02:17:973]: PROPERTY CHANGE: Adding ACTION property. Its value is 'INSTALL'.
+MSI (s) (18:F4) [12:02:17:973]: Doing action: INSTALL
+Action start 12:02:17: INSTALL.
+MSI (s) (18:F4) [12:02:17:973]: Running ExecuteSequence
+MSI (s) (18:F4) [12:02:17:974]: Doing action: LaunchConditions
+MSI (s) (18:F4) [12:02:17:974]: Note: 1: 2262 2: LaunchCondition 3: -2147287038 
+Action start 12:02:17: LaunchConditions.
+MSI (s) (18:F4) [12:02:17:974]: Doing action: FindRelatedProducts
+Action ended 12:02:17: LaunchConditions. Return value 1.
+MSI (s) (18:F4) [12:02:17:974]: Note: 1: 2262 2: Upgrade 3: -2147287038 
+Action start 12:02:17: FindRelatedProducts.
+MSI (s) (18:F4) [12:02:17:974]: Doing action: AppSearch
+Action ended 12:02:17: FindRelatedProducts. Return value 1.
+Action start 12:02:17: AppSearch.
+MSI (s) (18:F4) [12:02:17:974]: Note: 1: 2262 2: Signature 3: -2147287038 
+MSI (s) (18:F4) [12:02:17:974]: Note: 1: 2262 2: CompLocator 3: -2147287038 
+MSI (s) (18:F4) [12:02:17:974]: Note: 1: 1402 2: HKEY_LOCAL_MACHINE\SOFTWARE\Python\PythonCore\3.6\InstallPath 3: 2 
+MSI (s) (18:F4) [12:02:17:974]: Note: 1: 2262 2: IniLocator 3: -2147287038 
+MSI (s) (18:F4) [12:02:17:974]: Note: 1: 2262 2: DrLocator 3: -2147287038 
+MSI (s) (18:F4) [12:02:17:974]: Note: 1: 2262 2: Signature 3: -2147287038 
+MSI (s) (18:F4) [12:02:17:974]: Note: 1: 2262 2: CompLocator 3: -2147287038 
+MSI (s) (18:F4) [12:02:17:974]: PROPERTY CHANGE: Adding PYTHON.USER.3.6 property. Its value is 'C:\Users\pgmi2\AppData\Local\Programs\Python\Python36\'.
+MSI (s) (18:F4) [12:02:17:974]: Skipping action: PythonFromMachine3.6 (condition is false)
+MSI (s) (18:F4) [12:02:17:974]: Doing action: PythonFromUser3.6
+Action ended 12:02:17: AppSearch. Return value 1.
+MSI (s) (18:F4) [12:02:17:974]: Note: 1: 2235 2:  3: ExtendedType 4: SELECT `Action`,`Type`,`Source`,`Target`, NULL, `ExtendedType` FROM `CustomAction` WHERE `Action` = 'PythonFromUser3.6' 
+MSI (s) (18:F4) [12:02:17:975]: PROPERTY CHANGE: Adding TARGETDIR3.6 property. Its value is 'C:\Users\pgmi2\AppData\Local\Programs\Python\Python36\'.
+Action start 12:02:17: PythonFromUser3.6.
+MSI (s) (18:F4) [12:02:17:975]: Doing action: PythonExe3.6
+Action ended 12:02:17: PythonFromUser3.6. Return value 1.
+MSI (s) (18:F4) [12:02:17:975]: Note: 1: 2235 2:  3: ExtendedType 4: SELECT `Action`,`Type`,`Source`,`Target`, NULL, `ExtendedType` FROM `CustomAction` WHERE `Action` = 'PythonExe3.6' 
+MSI (s) (18:F4) [12:02:17:975]: PROPERTY CHANGE: Adding PYTHON3.6 property. Its value is 'C:\Users\pgmi2\AppData\Local\Programs\Python\Python36\\python.exe'.
+Action start 12:02:17: PythonExe3.6.
+MSI (s) (18:F4) [12:02:17:975]: Doing action: CCPSearch
+Action ended 12:02:17: PythonExe3.6. Return value 1.
+MSI (s) (18:F4) [12:02:17:975]: Note: 1: 2262 2: CCPSearch 3: -2147287038 
+Action start 12:02:17: CCPSearch.
+MSI (s) (18:F4) [12:02:17:975]: Doing action: RMCCPSearch
+Action ended 12:02:17: CCPSearch. Return value 1.
+MSI (s) (18:F4) [12:02:17:975]: Note: 1: 2262 2: CCPSearch 3: -2147287038 
+Action start 12:02:17: RMCCPSearch.
+MSI (s) (18:F4) [12:02:17:975]: Doing action: ValidateProductID
+Action ended 12:02:17: RMCCPSearch. Return value 0.
+Action start 12:02:17: ValidateProductID.
+MSI (s) (18:F4) [12:02:17:976]: Doing action: CostInitialize
+Action ended 12:02:17: ValidateProductID. Return value 1.
+MSI (s) (18:F4) [12:02:17:976]: Machine policy value 'MaxPatchCacheSize' is 10
+MSI (s) (18:F4) [12:02:17:976]: PROPERTY CHANGE: Adding ROOTDRIVE property. Its value is 'C:\'.
+MSI (s) (18:F4) [12:02:17:976]: PROPERTY CHANGE: Adding CostingComplete property. Its value is '0'.
+MSI (s) (18:F4) [12:02:17:976]: Note: 1: 2262 2: Patch 3: -2147287038 
+MSI (s) (18:F4) [12:02:17:976]: Note: 1: 2262 2: PatchPackage 3: -2147287038 
+MSI (s) (18:F4) [12:02:17:976]: Note: 1: 2262 2: MsiPatchHeaders 3: -2147287038 
+MSI (s) (18:F4) [12:02:17:976]: Note: 1: 2205 2:  3: __MsiPatchFileList 
+Action start 12:02:17: CostInitialize.
+MSI (s) (18:F4) [12:02:17:977]: Doing action: FileCost
+Action ended 12:02:17: CostInitialize. Return value 1.
+MSI (s) (18:F4) [12:02:17:977]: Note: 1: 2262 2: MsiAssembly 3: -2147287038 
+MSI (s) (18:F4) [12:02:17:977]: Note: 1: 2262 2: MoveFile 3: -2147287038 
+MSI (s) (18:F4) [12:02:17:977]: Note: 1: 2262 2: Shortcut 3: -2147287038 
+MSI (s) (18:F4) [12:02:17:977]: Note: 1: 2262 2: Registry 3: -2147287038 
+MSI (s) (18:F4) [12:02:17:977]: Note: 1: 2262 2: Class 3: -2147287038 
+MSI (s) (18:F4) [12:02:17:977]: Note: 1: 2262 2: Extension 3: -2147287038 
+MSI (s) (18:F4) [12:02:17:977]: Note: 1: 2262 2: TypeLib 3: -2147287038 
+MSI (s) (18:F4) [12:02:17:977]: Note: 1: 2262 2: IniFile 3: -2147287038 
+MSI (s) (18:F4) [12:02:17:977]: Note: 1: 2262 2: ReserveCost 3: -2147287038 
+Action start 12:02:17: FileCost.
+MSI (s) (18:F4) [12:02:17:977]: Doing action: IsolateComponents
+Action ended 12:02:17: FileCost. Return value 1.
+MSI (s) (18:F4) [12:02:17:977]: Note: 1: 2262 2: BindImage 3: -2147287038 
+MSI (s) (18:F4) [12:02:17:977]: Note: 1: 2262 2: IsolatedComponent 3: -2147287038 
+Action start 12:02:17: IsolateComponents.
+MSI (s) (18:F4) [12:02:17:978]: Doing action: CostFinalize
+Action ended 12:02:17: IsolateComponents. Return value 1.
+MSI (s) (18:F4) [12:02:17:978]: PROPERTY CHANGE: Adding OutOfDiskSpace property. Its value is '0'.
+MSI (s) (18:F4) [12:02:17:978]: PROPERTY CHANGE: Adding OutOfNoRbDiskSpace property. Its value is '0'.
+MSI (s) (18:F4) [12:02:17:978]: PROPERTY CHANGE: Adding PrimaryVolumeSpaceAvailable property. Its value is '0'.
+MSI (s) (18:F4) [12:02:17:978]: PROPERTY CHANGE: Adding PrimaryVolumeSpaceRequired property. Its value is '0'.
+MSI (s) (18:F4) [12:02:17:978]: PROPERTY CHANGE: Adding PrimaryVolumeSpaceRemaining property. Its value is '0'.
+MSI (s) (18:F4) [12:02:17:979]: PROPERTY CHANGE: Adding TARGETDIR property. Its value is 'C:\'.
+MSI (s) (18:F4) [12:02:17:979]: PROPERTY CHANGE: Adding PyCapture2 property. Its value is 'C:\PyCapture2\'.
+MSI (s) (18:F4) [12:02:17:979]: PROPERTY CHANGE: Adding licenses property. Its value is 'C:\PyCapture2\licenses\'.
+MSI (s) (18:F4) [12:02:17:979]: PROPERTY CHANGE: Adding examples property. Its value is 'C:\PyCapture2\examples\'.
+MSI (s) (18:F4) [12:02:17:979]: PROPERTY CHANGE: Adding driver64 property. Its value is 'C:\PyCapture2\driver64\'.
+MSI (s) (18:F4) [12:02:17:979]: PROPERTY CHANGE: Adding driver property. Its value is 'C:\PyCapture2\driver\'.
+MSI (s) (18:F4) [12:02:17:979]: PROPERTY CHANGE: Adding docs property. Its value is 'C:\PyCapture2\docs\'.
+MSI (s) (18:F4) [12:02:17:979]: PROPERTY CHANGE: Adding Lib property. Its value is 'C:\Lib\'.
+MSI (s) (18:F4) [12:02:17:979]: PROPERTY CHANGE: Adding site_packages property. Its value is 'C:\Lib\site-packages\'.
+MSI (s) (18:F4) [12:02:17:979]: PROPERTY CHANGE: Adding PyCapture2_2.13.61_py3.6.egg_info property. Its value is 'C:\Lib\site-packages\PyCapture2-2.13.61-py3.6.egg-info\'.
+MSI (s) (18:F4) [12:02:17:979]: PROPERTY CHANGE: Adding TARGETDIRX property. Its value is 'C:\PythonX\'.
+MSI (s) (18:F4) [12:02:17:979]: PROPERTY CHANGE: Adding PyCapture2X property. Its value is 'C:\PythonX\PyCapture2\'.
+MSI (s) (18:F4) [12:02:17:979]: PROPERTY CHANGE: Adding licensesX property. Its value is 'C:\PythonX\PyCapture2\licenses\'.
+MSI (s) (18:F4) [12:02:17:979]: PROPERTY CHANGE: Adding examplesX property. Its value is 'C:\PythonX\PyCapture2\examples\'.
+MSI (s) (18:F4) [12:02:17:979]: PROPERTY CHANGE: Adding driver64X property. Its value is 'C:\PythonX\PyCapture2\driver64\'.
+MSI (s) (18:F4) [12:02:17:979]: PROPERTY CHANGE: Adding driverX property. Its value is 'C:\PythonX\PyCapture2\driver\'.
+MSI (s) (18:F4) [12:02:17:979]: PROPERTY CHANGE: Adding docsX property. Its value is 'C:\PythonX\PyCapture2\docs\'.
+MSI (s) (18:F4) [12:02:17:979]: PROPERTY CHANGE: Adding LibX property. Its value is 'C:\PythonX\Lib\'.
+MSI (s) (18:F4) [12:02:17:979]: PROPERTY CHANGE: Adding site_packagesX property. Its value is 'C:\PythonX\Lib\site-packages\'.
+MSI (s) (18:F4) [12:02:17:979]: PROPERTY CHANGE: Adding PyCapture2_2.13.61_py3.6.egg_infoX property. Its value is 'C:\PythonX\Lib\site-packages\PyCapture2-2.13.61-py3.6.egg-info\'.
+MSI (s) (18:F4) [12:02:17:979]: PROPERTY CHANGE: Adding PyCapture23.6 property. Its value is 'C:\Users\pgmi2\AppData\Local\Programs\Python\Python36\PyCapture2\'.
+MSI (s) (18:F4) [12:02:17:979]: PROPERTY CHANGE: Adding licenses3.6 property. Its value is 'C:\Users\pgmi2\AppData\Local\Programs\Python\Python36\PyCapture2\licenses\'.
+MSI (s) (18:F4) [12:02:17:979]: PROPERTY CHANGE: Adding examples3.6 property. Its value is 'C:\Users\pgmi2\AppData\Local\Programs\Python\Python36\PyCapture2\examples\'.
+MSI (s) (18:F4) [12:02:17:979]: PROPERTY CHANGE: Adding driver643.6 property. Its value is 'C:\Users\pgmi2\AppData\Local\Programs\Python\Python36\PyCapture2\driver64\'.
+MSI (s) (18:F4) [12:02:17:979]: PROPERTY CHANGE: Adding driver3.6 property. Its value is 'C:\Users\pgmi2\AppData\Local\Programs\Python\Python36\PyCapture2\driver\'.
+MSI (s) (18:F4) [12:02:17:979]: PROPERTY CHANGE: Adding docs3.6 property. Its value is 'C:\Users\pgmi2\AppData\Local\Programs\Python\Python36\PyCapture2\docs\'.
+MSI (s) (18:F4) [12:02:17:979]: PROPERTY CHANGE: Adding Lib3.6 property. Its value is 'C:\Users\pgmi2\AppData\Local\Programs\Python\Python36\Lib\'.
+MSI (s) (18:F4) [12:02:17:979]: PROPERTY CHANGE: Adding site_packages3.6 property. Its value is 'C:\Users\pgmi2\AppData\Local\Programs\Python\Python36\Lib\site-packages\'.
+MSI (s) (18:F4) [12:02:17:979]: PROPERTY CHANGE: Adding PyCapture2_2.13.61_py3.6.egg_info3.6 property. Its value is 'C:\Users\pgmi2\AppData\Local\Programs\Python\Python36\Lib\site-packages\PyCapture2-2.13.61-py3.6.egg-info\'.
+MSI (s) (18:F4) [12:02:17:979]: Target path resolution complete. Dumping Directory table...
+MSI (s) (18:F4) [12:02:17:979]: Note: target paths subject to change (via custom actions or browsing)
+MSI (s) (18:F4) [12:02:17:979]: Dir (target): Key: TARGETDIR	, Object: C:\
+MSI (s) (18:F4) [12:02:17:979]: Dir (target): Key: PyCapture2	, Object: C:\PyCapture2\
+MSI (s) (18:F4) [12:02:17:979]: Dir (target): Key: licenses	, Object: C:\PyCapture2\licenses\
+MSI (s) (18:F4) [12:02:17:979]: Dir (target): Key: examples	, Object: C:\PyCapture2\examples\
+MSI (s) (18:F4) [12:02:17:979]: Dir (target): Key: driver64	, Object: C:\PyCapture2\driver64\
+MSI (s) (18:F4) [12:02:17:979]: Dir (target): Key: driver	, Object: C:\PyCapture2\driver\
+MSI (s) (18:F4) [12:02:17:979]: Dir (target): Key: docs	, Object: C:\PyCapture2\docs\
+MSI (s) (18:F4) [12:02:17:979]: Dir (target): Key: Lib	, Object: C:\Lib\
+MSI (s) (18:F4) [12:02:17:979]: Dir (target): Key: site_packages	, Object: C:\Lib\site-packages\
+MSI (s) (18:F4) [12:02:17:979]: Dir (target): Key: PyCapture2_2.13.61_py3.6.egg_info	, Object: C:\Lib\site-packages\PyCapture2-2.13.61-py3.6.egg-info\
+MSI (s) (18:F4) [12:02:17:979]: Dir (target): Key: TARGETDIRX	, Object: C:\PythonX\
+MSI (s) (18:F4) [12:02:17:979]: Dir (target): Key: PyCapture2X	, Object: C:\PythonX\PyCapture2\
+MSI (s) (18:F4) [12:02:17:979]: Dir (target): Key: licensesX	, Object: C:\PythonX\PyCapture2\licenses\
+MSI (s) (18:F4) [12:02:17:979]: Dir (target): Key: examplesX	, Object: C:\PythonX\PyCapture2\examples\
+MSI (s) (18:F4) [12:02:17:979]: Dir (target): Key: driver64X	, Object: C:\PythonX\PyCapture2\driver64\
+MSI (s) (18:F4) [12:02:17:979]: Dir (target): Key: driverX	, Object: C:\PythonX\PyCapture2\driver\
+MSI (s) (18:F4) [12:02:17:979]: Dir (target): Key: docsX	, Object: C:\PythonX\PyCapture2\docs\
+MSI (s) (18:F4) [12:02:17:979]: Dir (target): Key: LibX	, Object: C:\PythonX\Lib\
+MSI (s) (18:F4) [12:02:17:979]: Dir (target): Key: site_packagesX	, Object: C:\PythonX\Lib\site-packages\
+MSI (s) (18:F4) [12:02:17:979]: Dir (target): Key: PyCapture2_2.13.61_py3.6.egg_infoX	, Object: C:\PythonX\Lib\site-packages\PyCapture2-2.13.61-py3.6.egg-info\
+MSI (s) (18:F4) [12:02:17:979]: Dir (target): Key: TARGETDIR3.6	, Object: C:\Users\pgmi2\AppData\Local\Programs\Python\Python36\
+MSI (s) (18:F4) [12:02:17:979]: Dir (target): Key: PyCapture23.6	, Object: C:\Users\pgmi2\AppData\Local\Programs\Python\Python36\PyCapture2\
+MSI (s) (18:F4) [12:02:17:979]: Dir (target): Key: licenses3.6	, Object: C:\Users\pgmi2\AppData\Local\Programs\Python\Python36\PyCapture2\licenses\
+MSI (s) (18:F4) [12:02:17:979]: Dir (target): Key: examples3.6	, Object: C:\Users\pgmi2\AppData\Local\Programs\Python\Python36\PyCapture2\examples\
+MSI (s) (18:F4) [12:02:17:979]: Dir (target): Key: driver643.6	, Object: C:\Users\pgmi2\AppData\Local\Programs\Python\Python36\PyCapture2\driver64\
+MSI (s) (18:F4) [12:02:17:979]: Dir (target): Key: driver3.6	, Object: C:\Users\pgmi2\AppData\Local\Programs\Python\Python36\PyCapture2\driver\
+MSI (s) (18:F4) [12:02:17:979]: Dir (target): Key: docs3.6	, Object: C:\Users\pgmi2\AppData\Local\Programs\Python\Python36\PyCapture2\docs\
+MSI (s) (18:F4) [12:02:17:979]: Dir (target): Key: Lib3.6	, Object: C:\Users\pgmi2\AppData\Local\Programs\Python\Python36\Lib\
+MSI (s) (18:F4) [12:02:17:979]: Dir (target): Key: site_packages3.6	, Object: C:\Users\pgmi2\AppData\Local\Programs\Python\Python36\Lib\site-packages\
+MSI (s) (18:F4) [12:02:17:979]: Dir (target): Key: PyCapture2_2.13.61_py3.6.egg_info3.6	, Object: C:\Users\pgmi2\AppData\Local\Programs\Python\Python36\Lib\site-packages\PyCapture2-2.13.61-py3.6.egg-info\
+MSI (s) (18:F4) [12:02:17:979]: PROPERTY CHANGE: Adding INSTALLLEVEL property. Its value is '1'.
+Action start 12:02:17: CostFinalize.
+MSI (s) (18:F4) [12:02:17:979]: Doing action: SetODBCFolders
+Action ended 12:02:17: CostFinalize. Return value 1.
+MSI (s) (18:F4) [12:02:17:979]: Note: 1: 2262 2: ODBCDriver 3: -2147287038 
+MSI (s) (18:F4) [12:02:17:980]: Note: 1: 2262 2: ODBCTranslator 3: -2147287038 
+Action start 12:02:17: SetODBCFolders.
+MSI (s) (18:F4) [12:02:17:980]: Doing action: MigrateFeatureStates
+Action ended 12:02:17: SetODBCFolders. Return value 1.
+Action start 12:02:17: MigrateFeatureStates.
+MSI (s) (18:F4) [12:02:17:980]: Doing action: InstallValidate
+Action ended 12:02:17: MigrateFeatureStates. Return value 0.
+MSI (s) (18:F4) [12:02:17:980]: PROPERTY CHANGE: Deleting MsiRestartManagerSessionKey property. Its current value is '2209ef6ba885164e9cf14dc33b8014c6'.
+MSI (s) (18:F4) [12:02:17:980]: Feature: Python3.6; Installed: Absent;   Request: Local;   Action: Local
+MSI (s) (18:F4) [12:02:17:980]: Feature: Python; Installed: Absent;   Request: Local;   Action: Local
+MSI (s) (18:F4) [12:02:17:980]: Feature: PythonX; Installed: Absent;   Request: Null;   Action: Null
+MSI (s) (18:F4) [12:02:17:980]: Component: TARGETDIR3.6; Installed: Absent;   Request: Local;   Action: Local
+MSI (s) (18:F4) [12:02:17:980]: Component: TARGETDIR; Installed: Absent;   Request: Local;   Action: Local
+MSI (s) (18:F4) [12:02:17:980]: Component: TARGETDIRX; Installed: Absent;   Request: Null;   Action: Null
+MSI (s) (18:F4) [12:02:17:980]: Component: docs; Installed: Absent;   Request: Local;   Action: Local
+MSI (s) (18:F4) [12:02:17:980]: Component: driver; Installed: Absent;   Request: Local;   Action: Local
+MSI (s) (18:F4) [12:02:17:980]: Component: driver64; Installed: Absent;   Request: Local;   Action: Local
+MSI (s) (18:F4) [12:02:17:980]: Component: examples; Installed: Absent;   Request: Local;   Action: Local
+MSI (s) (18:F4) [12:02:17:980]: Component: licenses; Installed: Absent;   Request: Local;   Action: Local
+MSI (s) (18:F4) [12:02:17:980]: Component: site_packages; Installed: Absent;   Request: Local;   Action: Local
+MSI (s) (18:F4) [12:02:17:980]: Component: PyCapture2_2.13.61_py3.6.egg_info; Installed: Absent;   Request: Local;   Action: Local
+MSI (s) (18:F4) [12:02:17:980]: Component: docs3.6; Installed: Absent;   Request: Local;   Action: Local
+MSI (s) (18:F4) [12:02:17:980]: Component: driver3.6; Installed: Absent;   Request: Local;   Action: Local
+MSI (s) (18:F4) [12:02:17:980]: Component: driver643.6; Installed: Absent;   Request: Local;   Action: Local
+MSI (s) (18:F4) [12:02:17:980]: Component: examples3.6; Installed: Absent;   Request: Local;   Action: Local
+MSI (s) (18:F4) [12:02:17:980]: Component: licenses3.6; Installed: Absent;   Request: Local;   Action: Local
+MSI (s) (18:F4) [12:02:17:980]: Component: site_packages3.6; Installed: Absent;   Request: Local;   Action: Local
+MSI (s) (18:F4) [12:02:17:980]: Component: PyCapture2_2.13.61_py3.6.egg_info3.6; Installed: Absent;   Request: Local;   Action: Local
+MSI (s) (18:F4) [12:02:17:980]: Component: docsX; Installed: Absent;   Request: Null;   Action: Null
+MSI (s) (18:F4) [12:02:17:980]: Component: driverX; Installed: Absent;   Request: Null;   Action: Null
+MSI (s) (18:F4) [12:02:17:980]: Component: driver64X; Installed: Absent;   Request: Null;   Action: Null
+MSI (s) (18:F4) [12:02:17:980]: Component: examplesX; Installed: Absent;   Request: Null;   Action: Null
+MSI (s) (18:F4) [12:02:17:980]: Component: licensesX; Installed: Absent;   Request: Null;   Action: Null
+MSI (s) (18:F4) [12:02:17:980]: Component: site_packagesX; Installed: Absent;   Request: Null;   Action: Null
+MSI (s) (18:F4) [12:02:17:980]: Component: PyCapture2_2.13.61_py3.6.egg_infoX; Installed: Absent;   Request: Null;   Action: Null
+MSI (s) (18:F4) [12:02:17:980]: Note: 1: 2262 2: BindImage 3: -2147287038 
+MSI (s) (18:F4) [12:02:17:980]: Note: 1: 2262 2: ProgId 3: -2147287038 
+MSI (s) (18:F4) [12:02:17:980]: Note: 1: 2262 2: PublishComponent 3: -2147287038 
+MSI (s) (18:F4) [12:02:17:980]: Note: 1: 2262 2: SelfReg 3: -2147287038 
+MSI (s) (18:F4) [12:02:17:980]: Note: 1: 2262 2: Extension 3: -2147287038 
+MSI (s) (18:F4) [12:02:17:980]: Note: 1: 2262 2: Font 3: -2147287038 
+MSI (s) (18:F4) [12:02:17:980]: Note: 1: 2262 2: Class 3: -2147287038 
+MSI (s) (18:F4) [12:02:17:980]: Note: 1: 2262 2: Icon 3: -2147287038 
+MSI (s) (18:F4) [12:02:17:980]: Note: 1: 2262 2: TypeLib 3: -2147287038 
+Action start 12:02:17: InstallValidate.
+MSI (s) (18:F4) [12:02:17:981]: Note: 1: 2262 2: ReserveCost 3: -2147287038 
+MSI (s) (18:F4) [12:02:17:981]: Note: 1: 2205 2:  3: _RemoveFilePath 
+MSI (s) (18:F4) [12:02:17:987]: PROPERTY CHANGE: Modifying CostingComplete property. Its current value is '0'. Its new value: '1'.
+MSI (s) (18:F4) [12:02:17:988]: Note: 1: 2262 2: BindImage 3: -2147287038 
+MSI (s) (18:F4) [12:02:17:988]: Note: 1: 2262 2: ProgId 3: -2147287038 
+MSI (s) (18:F4) [12:02:17:988]: Note: 1: 2262 2: PublishComponent 3: -2147287038 
+MSI (s) (18:F4) [12:02:17:988]: Note: 1: 2262 2: SelfReg 3: -2147287038 
+MSI (s) (18:F4) [12:02:17:988]: Note: 1: 2262 2: Extension 3: -2147287038 
+MSI (s) (18:F4) [12:02:17:988]: Note: 1: 2262 2: Font 3: -2147287038 
+MSI (s) (18:F4) [12:02:17:988]: Note: 1: 2262 2: Class 3: -2147287038 
+MSI (s) (18:F4) [12:02:17:988]: Note: 1: 2262 2: Icon 3: -2147287038 
+MSI (s) (18:F4) [12:02:17:988]: Note: 1: 2262 2: TypeLib 3: -2147287038 
+MSI (s) (18:F4) [12:02:17:988]: Note: 1: 2727 2:  
+MSI (s) (18:F4) [12:02:17:988]: Note: 1: 2205 2:  3: FilesInUse 
+MSI (s) (18:F4) [12:02:17:995]: Note: 1: 2727 2:  
+MSI (s) (18:F4) [12:02:17:995]: Doing action: InstallInitialize
+Action ended 12:02:17: InstallValidate. Return value 1.
+MSI (s) (18:F4) [12:02:17:995]: Machine policy value 'AlwaysInstallElevated' is 0
+MSI (s) (18:F4) [12:02:17:995]: User policy value 'AlwaysInstallElevated' is 0
+MSI (s) (18:F4) [12:02:17:995]: BeginTransaction: Locking Server
+MSI (s) (18:F4) [12:02:17:995]: Note: 1: 2203 2: C:\Windows\Installer\inprogressinstallinfo.ipi 3: -2147287038 
+MSI (s) (18:F4) [12:02:17:995]: SRSetRestorePoint skipped for this transaction.
+MSI (s) (18:F4) [12:02:17:995]: Note: 1: 2203 2: C:\Windows\Installer\inprogressinstallinfo.ipi 3: -2147287038 
+MSI (s) (18:F4) [12:02:17:995]: Server not locked: locking for product {2384BC12-775D-4353-9ACE-3D26D6D935D2}
+Action start 12:02:17: InstallInitialize.
+MSI (s) (18:F4) [12:02:17:998]: Doing action: AllocateRegistrySpace
+Action ended 12:02:17: InstallInitialize. Return value 1.
+Action start 12:02:17: AllocateRegistrySpace.
+MSI (s) (18:F4) [12:02:17:998]: Doing action: ProcessComponents
+Action ended 12:02:17: AllocateRegistrySpace. Return value 1.
+MSI (s) (18:F4) [12:02:17:998]: Note: 1: 2205 2:  3: MsiPatchCertificate 
+MSI (s) (18:F4) [12:02:17:998]: LUA patching is disabled: missing MsiPatchCertificate table
+MSI (s) (18:F4) [12:02:17:998]: Resolving source.
+MSI (s) (18:F4) [12:02:17:998]: Resolving source to launched-from source.
+MSI (s) (18:F4) [12:02:17:998]: Setting launched-from source as last-used.
+MSI (s) (18:F4) [12:02:17:998]: PROPERTY CHANGE: Adding SourceDir property. Its value is 'C:\Users\pgmi2\Downloads\PyCapture2_extracted\'.
+MSI (s) (18:F4) [12:02:17:998]: PROPERTY CHANGE: Adding SOURCEDIR property. Its value is 'C:\Users\pgmi2\Downloads\PyCapture2_extracted\'.
+MSI (s) (18:F4) [12:02:17:998]: PROPERTY CHANGE: Adding SourcedirProduct property. Its value is '{2384BC12-775D-4353-9ACE-3D26D6D935D2}'.
+MSI (s) (18:F4) [12:02:17:998]: SOURCEDIR ==> C:\Users\pgmi2\Downloads\PyCapture2_extracted\
+MSI (s) (18:F4) [12:02:17:998]: SOURCEDIR product ==> {2384BC12-775D-4353-9ACE-3D26D6D935D2}
+MSI (s) (18:F4) [12:02:17:998]: Determining source type
+MSI (s) (18:F4) [12:02:17:998]: Source type from package 'PyCapture2-2.13.61.win-amd64-py3.6.msi': 2
+MSI (s) (18:F4) [12:02:17:999]: SECREPAIR: Hash Database: C:\Windows\Installer\SourceHash{2384BC12-775D-4353-9ACE-3D26D6D935D2}
+MSI (s) (18:F4) [12:02:17:999]: Note: 1: 2262 2: SourceHash 3: -2147287038 
+MSI (s) (18:F4) [12:02:18:000]: SECREPAIR: New Hash Database creation complete.
+MSI (s) (18:F4) [12:02:18:026]: Source path resolution complete. Dumping Directory table...
+MSI (s) (18:F4) [12:02:18:026]: Dir (source): Key: TARGETDIR	, Object: C:\Users\pgmi2\Downloads\PyCapture2_extracted\	, LongSubPath: 	, ShortSubPath: 
+MSI (s) (18:F4) [12:02:18:026]: Dir (source): Key: PyCapture2	, Object: C:\Users\pgmi2\Downloads\PyCapture2_extracted\	, LongSubPath: PyCapture2\	, ShortSubPath: PYCAPT~1\
+MSI (s) (18:F4) [12:02:18:026]: Dir (source): Key: licenses	, Object: C:\Users\pgmi2\Downloads\PyCapture2_extracted\	, LongSubPath: PyCapture2\licenses\	, ShortSubPath: PYCAPT~1\LICENSES\
+MSI (s) (18:F4) [12:02:18:026]: Dir (source): Key: examples	, Object: C:\Users\pgmi2\Downloads\PyCapture2_extracted\	, LongSubPath: PyCapture2\examples\	, ShortSubPath: PYCAPT~1\EXAMPLES\
+MSI (s) (18:F4) [12:02:18:026]: Dir (source): Key: driver64	, Object: C:\Users\pgmi2\Downloads\PyCapture2_extracted\	, LongSubPath: PyCapture2\driver64\	, ShortSubPath: PYCAPT~1\DRIVER64\
+MSI (s) (18:F4) [12:02:18:026]: Dir (source): Key: driver	, Object: C:\Users\pgmi2\Downloads\PyCapture2_extracted\	, LongSubPath: PyCapture2\driver\	, ShortSubPath: PYCAPT~1\DRIVER\
+MSI (s) (18:F4) [12:02:18:026]: Dir (source): Key: docs	, Object: C:\Users\pgmi2\Downloads\PyCapture2_extracted\	, LongSubPath: PyCapture2\docs\	, ShortSubPath: PYCAPT~1\DOCS\
+MSI (s) (18:F4) [12:02:18:026]: Dir (source): Key: Lib	, Object: C:\Users\pgmi2\Downloads\PyCapture2_extracted\	, LongSubPath: Lib\	, ShortSubPath: LIB\
+MSI (s) (18:F4) [12:02:18:026]: Dir (source): Key: site_packages	, Object: C:\Users\pgmi2\Downloads\PyCapture2_extracted\	, LongSubPath: Lib\site-packages\	, ShortSubPath: LIB\SITE-P~1\
+MSI (s) (18:F4) [12:02:18:026]: Dir (source): Key: PyCapture2_2.13.61_py3.6.egg_info	, Object: C:\Users\pgmi2\Downloads\PyCapture2_extracted\	, LongSubPath: Lib\site-packages\PyCapture2-2.13.61-py3.6.egg-info\	, ShortSubPath: LIB\SITE-P~1\PYCAPT~1.EGG\
+MSI (s) (18:F4) [12:02:18:026]: Dir (source): Key: TARGETDIRX	, Object: C:\Users\pgmi2\Downloads\PyCapture2_extracted\	, LongSubPath: PythonX\	, ShortSubPath: 
+MSI (s) (18:F4) [12:02:18:026]: Dir (source): Key: PyCapture2X	, Object: C:\Users\pgmi2\Downloads\PyCapture2_extracted\	, LongSubPath: PythonX\PyCapture2\	, ShortSubPath: PythonX\PYCAPT~1\
+MSI (s) (18:F4) [12:02:18:026]: Dir (source): Key: licensesX	, Object: C:\Users\pgmi2\Downloads\PyCapture2_extracted\	, LongSubPath: PythonX\PyCapture2\licenses\	, ShortSubPath: PythonX\PYCAPT~1\LICENSES\
+MSI (s) (18:F4) [12:02:18:026]: Dir (source): Key: examplesX	, Object: C:\Users\pgmi2\Downloads\PyCapture2_extracted\	, LongSubPath: PythonX\PyCapture2\examples\	, ShortSubPath: PythonX\PYCAPT~1\EXAMPLES\
+MSI (s) (18:F4) [12:02:18:026]: Dir (source): Key: driver64X	, Object: C:\Users\pgmi2\Downloads\PyCapture2_extracted\	, LongSubPath: PythonX\PyCapture2\driver64\	, ShortSubPath: PythonX\PYCAPT~1\DRIVER64\
+MSI (s) (18:F4) [12:02:18:026]: Dir (source): Key: driverX	, Object: C:\Users\pgmi2\Downloads\PyCapture2_extracted\	, LongSubPath: PythonX\PyCapture2\driver\	, ShortSubPath: PythonX\PYCAPT~1\DRIVER\
+MSI (s) (18:F4) [12:02:18:026]: Dir (source): Key: docsX	, Object: C:\Users\pgmi2\Downloads\PyCapture2_extracted\	, LongSubPath: PythonX\PyCapture2\docs\	, ShortSubPath: PythonX\PYCAPT~1\DOCS\
+MSI (s) (18:F4) [12:02:18:026]: Dir (source): Key: LibX	, Object: C:\Users\pgmi2\Downloads\PyCapture2_extracted\	, LongSubPath: PythonX\Lib\	, ShortSubPath: PythonX\LIB\
+MSI (s) (18:F4) [12:02:18:026]: Dir (source): Key: site_packagesX	, Object: C:\Users\pgmi2\Downloads\PyCapture2_extracted\	, LongSubPath: PythonX\Lib\site-packages\	, ShortSubPath: PythonX\LIB\SITE-P~1\
+MSI (s) (18:F4) [12:02:18:026]: Dir (source): Key: PyCapture2_2.13.61_py3.6.egg_infoX	, Object: C:\Users\pgmi2\Downloads\PyCapture2_extracted\	, LongSubPath: PythonX\Lib\site-packages\PyCapture2-2.13.61-py3.6.egg-info\	, ShortSubPath: PythonX\LIB\SITE-P~1\PYCAPT~1.EGG\
+MSI (s) (18:F4) [12:02:18:026]: Dir (source): Key: TARGETDIR3.6	, Object: C:\Users\pgmi2\Downloads\PyCapture2_extracted\	, LongSubPath: Python3.6\	, ShortSubPath: 
+MSI (s) (18:F4) [12:02:18:026]: Dir (source): Key: PyCapture23.6	, Object: C:\Users\pgmi2\Downloads\PyCapture2_extracted\	, LongSubPath: Python3.6\PyCapture2\	, ShortSubPath: Python3.6\PYCAPT~1\
+MSI (s) (18:F4) [12:02:18:026]: Dir (source): Key: licenses3.6	, Object: C:\Users\pgmi2\Downloads\PyCapture2_extracted\	, LongSubPath: Python3.6\PyCapture2\licenses\	, ShortSubPath: Python3.6\PYCAPT~1\LICENSES\
+MSI (s) (18:F4) [12:02:18:026]: Dir (source): Key: examples3.6	, Object: C:\Users\pgmi2\Downloads\PyCapture2_extracted\	, LongSubPath: Python3.6\PyCapture2\examples\	, ShortSubPath: Python3.6\PYCAPT~1\EXAMPLES\
+MSI (s) (18:F4) [12:02:18:026]: Dir (source): Key: driver643.6	, Object: C:\Users\pgmi2\Downloads\PyCapture2_extracted\	, LongSubPath: Python3.6\PyCapture2\driver64\	, ShortSubPath: Python3.6\PYCAPT~1\DRIVER64\
+MSI (s) (18:F4) [12:02:18:026]: Dir (source): Key: driver3.6	, Object: C:\Users\pgmi2\Downloads\PyCapture2_extracted\	, LongSubPath: Python3.6\PyCapture2\driver\	, ShortSubPath: Python3.6\PYCAPT~1\DRIVER\
+MSI (s) (18:F4) [12:02:18:026]: Dir (source): Key: docs3.6	, Object: C:\Users\pgmi2\Downloads\PyCapture2_extracted\	, LongSubPath: Python3.6\PyCapture2\docs\	, ShortSubPath: Python3.6\PYCAPT~1\DOCS\
+MSI (s) (18:F4) [12:02:18:026]: Dir (source): Key: Lib3.6	, Object: C:\Users\pgmi2\Downloads\PyCapture2_extracted\	, LongSubPath: Python3.6\Lib\	, ShortSubPath: Python3.6\LIB\
+MSI (s) (18:F4) [12:02:18:026]: Dir (source): Key: site_packages3.6	, Object: C:\Users\pgmi2\Downloads\PyCapture2_extracted\	, LongSubPath: Python3.6\Lib\site-packages\	, ShortSubPath: Python3.6\LIB\SITE-P~1\
+MSI (s) (18:F4) [12:02:18:026]: Dir (source): Key: PyCapture2_2.13.61_py3.6.egg_info3.6	, Object: C:\Users\pgmi2\Downloads\PyCapture2_extracted\	, LongSubPath: Python3.6\Lib\site-packages\PyCapture2-2.13.61-py3.6.egg-info\	, ShortSubPath: Python3.6\LIB\SITE-P~1\PYCAPT~1.EGG\
+Action start 12:02:17: ProcessComponents.
+MSI (s) (18:F4) [12:02:18:030]: Doing action: UnpublishComponents
+Action ended 12:02:18: ProcessComponents. Return value 1.
+MSI (s) (18:F4) [12:02:18:030]: Note: 1: 2262 2: PublishComponent 3: -2147287038 
+Action start 12:02:18: UnpublishComponents.
+MSI (s) (18:F4) [12:02:18:031]: Doing action: MsiUnpublishAssemblies
+Action ended 12:02:18: UnpublishComponents. Return value 1.
+Action start 12:02:18: MsiUnpublishAssemblies.
+MSI (s) (18:F4) [12:02:18:032]: Doing action: UnpublishFeatures
+Action ended 12:02:18: MsiUnpublishAssemblies. Return value 1.
+Action start 12:02:18: UnpublishFeatures.
+MSI (s) (18:F4) [12:02:18:032]: Doing action: StopServices
+Action ended 12:02:18: UnpublishFeatures. Return value 1.
+MSI (s) (18:F4) [12:02:18:032]: Note: 1: 2262 2: ServiceControl 3: -2147287038 
+Action start 12:02:18: StopServices.
+MSI (s) (18:F4) [12:02:18:032]: Doing action: DeleteServices
+Action ended 12:02:18: StopServices. Return value 1.
+MSI (s) (18:F4) [12:02:18:033]: Note: 1: 2262 2: ServiceControl 3: -2147287038 
+Action start 12:02:18: DeleteServices.
+MSI (s) (18:F4) [12:02:18:033]: Doing action: UnregisterComPlus
+Action ended 12:02:18: DeleteServices. Return value 1.
+MSI (s) (18:F4) [12:02:18:034]: Note: 1: 2262 2: Complus 3: -2147287038 
+Action start 12:02:18: UnregisterComPlus.
+MSI (s) (18:F4) [12:02:18:034]: Doing action: SelfUnregModules
+Action ended 12:02:18: UnregisterComPlus. Return value 1.
+MSI (s) (18:F4) [12:02:18:035]: Note: 1: 2262 2: SelfReg 3: -2147287038 
+Action start 12:02:18: SelfUnregModules.
+MSI (s) (18:F4) [12:02:18:035]: Doing action: UnregisterTypeLibraries
+Action ended 12:02:18: SelfUnregModules. Return value 1.
+MSI (s) (18:F4) [12:02:18:035]: Note: 1: 2262 2: TypeLib 3: -2147287038 
+Action start 12:02:18: UnregisterTypeLibraries.
+MSI (s) (18:F4) [12:02:18:035]: Doing action: RemoveODBC
+Action ended 12:02:18: UnregisterTypeLibraries. Return value 1.
+MSI (s) (18:F4) [12:02:18:036]: Note: 1: 2262 2: ODBCDataSource 3: -2147287038 
+MSI (s) (18:F4) [12:02:18:036]: Note: 1: 2262 2: ODBCDataSource 3: -2147287038 
+MSI (s) (18:F4) [12:02:18:036]: Note: 1: 2262 2: ODBCTranslator 3: -2147287038 
+MSI (s) (18:F4) [12:02:18:036]: Note: 1: 2262 2: ODBCTranslator 3: -2147287038 
+MSI (s) (18:F4) [12:02:18:036]: Note: 1: 2262 2: ODBCDriver 3: -2147287038 
+MSI (s) (18:F4) [12:02:18:036]: Note: 1: 2262 2: ODBCDriver 3: -2147287038 
+MSI (s) (18:F4) [12:02:18:036]: Note: 1: 2711 2: ODBCDriverManager 
+Action start 12:02:18: RemoveODBC.
+MSI (s) (18:F4) [12:02:18:036]: Note: 1: 2711 2: ODBCDriverManager64 
+MSI (s) (18:F4) [12:02:18:037]: Doing action: UnregisterFonts
+Action ended 12:02:18: RemoveODBC. Return value 1.
+MSI (s) (18:F4) [12:02:18:037]: Note: 1: 2262 2: Font 3: -2147287038 
+Action start 12:02:18: UnregisterFonts.
+MSI (s) (18:F4) [12:02:18:037]: Doing action: RemoveRegistryValues
+Action ended 12:02:18: UnregisterFonts. Return value 1.
+MSI (s) (18:F4) [12:02:18:037]: Note: 1: 2262 2: RemoveRegistry 3: -2147287038 
+Action start 12:02:18: RemoveRegistryValues.
+MSI (s) (18:F4) [12:02:18:037]: Doing action: UnregisterClassInfo
+Action ended 12:02:18: RemoveRegistryValues. Return value 1.
+MSI (s) (18:F4) [12:02:18:037]: Note: 1: 2262 2: Class 3: -2147287038 
+Action start 12:02:18: UnregisterClassInfo.
+MSI (s) (18:F4) [12:02:18:037]: Doing action: UnregisterExtensionInfo
+Action ended 12:02:18: UnregisterClassInfo. Return value 1.
+MSI (s) (18:F4) [12:02:18:038]: Note: 1: 2262 2: Extension 3: -2147287038 
+Action start 12:02:18: UnregisterExtensionInfo.
+MSI (s) (18:F4) [12:02:18:038]: Doing action: UnregisterProgIdInfo
+Action ended 12:02:18: UnregisterExtensionInfo. Return value 1.
+MSI (s) (18:F4) [12:02:18:038]: Note: 1: 2262 2: ProgId 3: -2147287038 
+MSI (s) (18:F4) [12:02:18:038]: Note: 1: 2262 2: Class 3: -2147287038 
+MSI (s) (18:F4) [12:02:18:038]: Note: 1: 2262 2: ProgId 3: -2147287038 
+MSI (s) (18:F4) [12:02:18:038]: Note: 1: 2262 2: Extension 3: -2147287038 
+Action start 12:02:18: UnregisterProgIdInfo.
+MSI (s) (18:F4) [12:02:18:038]: Doing action: UnregisterMIMEInfo
+Action ended 12:02:18: UnregisterProgIdInfo. Return value 1.
+MSI (s) (18:F4) [12:02:18:038]: Note: 1: 2262 2: MIME 3: -2147287038 
+MSI (s) (18:F4) [12:02:18:038]: Note: 1: 2262 2: Extension 3: -2147287038 
+Action start 12:02:18: UnregisterMIMEInfo.
+MSI (s) (18:F4) [12:02:18:038]: Doing action: RemoveIniValues
+Action ended 12:02:18: UnregisterMIMEInfo. Return value 1.
+MSI (s) (18:F4) [12:02:18:038]: Note: 1: 2262 2: RemoveIniFile 3: -2147287038 
+Action start 12:02:18: RemoveIniValues.
+MSI (s) (18:F4) [12:02:18:040]: Doing action: RemoveShortcuts
+Action ended 12:02:18: RemoveIniValues. Return value 1.
+Action start 12:02:18: RemoveShortcuts.
+MSI (s) (18:F4) [12:02:18:040]: Doing action: RemoveEnvironmentStrings
+Action ended 12:02:18: RemoveShortcuts. Return value 1.
+MSI (s) (18:F4) [12:02:18:040]: Note: 1: 2262 2: Environment 3: -2147287038 
+Action start 12:02:18: RemoveEnvironmentStrings.
+MSI (s) (18:F4) [12:02:18:040]: Doing action: RemoveDuplicateFiles
+Action ended 12:02:18: RemoveEnvironmentStrings. Return value 1.
+Action start 12:02:18: RemoveDuplicateFiles.
+MSI (s) (18:F4) [12:02:18:040]: Doing action: RemoveFiles
+Action ended 12:02:18: RemoveDuplicateFiles. Return value 1.
+Action start 12:02:18: RemoveFiles.
+MSI (s) (18:F4) [12:02:18:041]: Doing action: RemoveFolders
+Action ended 12:02:18: RemoveFiles. Return value 1.
+MSI (s) (18:F4) [12:02:18:041]: Note: 1: 2262 2: CreateFolder 3: -2147287038 
+MSI (s) (18:F4) [12:02:18:041]: Note: 1: 2262 2: LockPermissions 3: -2147287038 
+Action start 12:02:18: RemoveFolders.
+MSI (s) (18:F4) [12:02:18:041]: Doing action: CreateFolders
+Action ended 12:02:18: RemoveFolders. Return value 1.
+MSI (s) (18:F4) [12:02:18:041]: Note: 1: 2262 2: CreateFolder 3: -2147287038 
+MSI (s) (18:F4) [12:02:18:041]: Note: 1: 2262 2: LockPermissions 3: -2147287038 
+Action start 12:02:18: CreateFolders.
+MSI (s) (18:F4) [12:02:18:041]: Doing action: MoveFiles
+Action ended 12:02:18: CreateFolders. Return value 1.
+Action start 12:02:18: MoveFiles.
+MSI (s) (18:F4) [12:02:18:041]: Doing action: InstallFiles
+Action ended 12:02:18: MoveFiles. Return value 1.
+Action start 12:02:18: InstallFiles.
+MSI (s) (18:F4) [12:02:18:042]: Note: 1: 2262 2: LockPermissions 3: -2147287038 
+MSI (s) (18:F4) [12:02:18:042]: Note: 1: 2205 2:  3: MsiPatchOldAssemblyFile 
+MSI (s) (18:F4) [12:02:18:042]: Note: 1: 2228 2:  3: MsiPatchOldAssemblyFile 4: SELECT `MsiPatchOldAssemblyFile`.`Assembly_` FROM `MsiPatchOldAssemblyFile` WHERE  `MsiPatchOldAssemblyFile`.`File_` = ? 
+MSI (s) (18:F4) [12:02:18:042]: Note: 1: 2262 2: Error 3: -2147287038 
+MSI (s) (18:F4) [12:02:18:042]: Note: 1: 2205 2:  3: MsiSFCBypass 
+MSI (s) (18:F4) [12:02:18:042]: Note: 1: 2228 2:  3: MsiSFCBypass 4: SELECT `File_` FROM `MsiSFCBypass` WHERE `File_` = ? 
+MSI (s) (18:F4) [12:02:18:047]: Doing action: PatchFiles
+Action ended 12:02:18: InstallFiles. Return value 1.
+MSI (s) (18:F4) [12:02:18:047]: Note: 1: 2262 2: Error 3: -2147287038 
+Action start 12:02:18: PatchFiles.
+MSI (s) (18:F4) [12:02:18:048]: Doing action: DuplicateFiles
+Action ended 12:02:18: PatchFiles. Return value 1.
+Action start 12:02:18: DuplicateFiles.
+MSI (s) (18:F4) [12:02:18:057]: Doing action: BindImage
+Action ended 12:02:18: DuplicateFiles. Return value 1.
+MSI (s) (18:F4) [12:02:18:057]: Note: 1: 2262 2: BindImage 3: -2147287038 
+Action start 12:02:18: BindImage.
+MSI (s) (18:F4) [12:02:18:057]: Doing action: CreateShortcuts
+Action ended 12:02:18: BindImage. Return value 1.
+MSI (s) (18:F4) [12:02:18:057]: Note: 1: 2262 2: Icon 3: -2147287038 
+MSI (s) (18:F4) [12:02:18:057]: Note: 1: 2235 2:  3: DisplayResourceDLL 4: SELECT  `Shortcut`,`Name`, `FileName`, `Component`.`Directory_`, `Arguments`, `WkDir`, `Icon_`, `IconIndex`, `Hotkey`, `ShowCmd`, `Shortcut`.`Description`, `Shortcut`.`Directory_`, `Component`.`RuntimeFlags`, `Component`.`Action`, `Target`, `ComponentId`, `Feature`.`Action`, `Component`.`Installed`, `DisplayResourceDLL`, `DisplayResourceId`, `DescriptionResourceDLL`, `DescriptionResourceId` From `Shortcut`, `Feature`, `Component`, `File` WHERE `Target` = `Feature` AND `Shortcut`.`Component_` = `Component` AND `Component`.`KeyPath` = `File`.`File` AND ((`Feature`.`Action` = 1 OR `Feature`.`Action` = 2)  OR (`Feature`.`Action` = 4 AND `Feature`.`Installed` = 0) OR (`Feature`.`Action` = 3 AND (`Feature`.`Installed` = 1 OR `Feature`.`Installed` = 2 OR `Feature`.`Installed` = 4)) OR (`Feature`.`Action` = NULL AND (`Component`.`Action` = 1 OR `Component`.`Action` = 2) AND (`Feature`.`Installed` = 1 OR `Feature`.`Installed` = 2 OR `Feature`.`Installed` = 4))) 
+MSI (s) (18:F4) [12:02:18:057]: Note: 1: 2205 2:  3: MsiShortcutProperty 
+MSI (s) (18:F4) [12:02:18:057]: Note: 1: 2235 2:  3: DisplayResourceDLL 4: SELECT  `Shortcut`,`Name`, `Target`, null, `Arguments`, `WkDir`, `Icon_`, `IconIndex`, `Hotkey`, `ShowCmd`, `Shortcut`.`Description`, `Shortcut`.`Directory_`, `Component`.`RuntimeFlags`, null, null, null, null, null, `DisplayResourceDLL`, `DisplayResourceId`, `DescriptionResourceDLL`, `DescriptionResourceId` From `Shortcut`, `Component` WHERE `Shortcut`.`Component_` = `Component` AND (`Component`.`Action` = 1 OR `Component`.`Action` = 2) 
+MSI (s) (18:F4) [12:02:18:057]: Note: 1: 2205 2:  3: MsiShortcutProperty 
+Action start 12:02:18: CreateShortcuts.
+MSI (s) (18:F4) [12:02:18:058]: Doing action: RegisterClassInfo
+Action ended 12:02:18: CreateShortcuts. Return value 1.
+MSI (s) (18:F4) [12:02:18:058]: Note: 1: 2262 2: Class 3: -2147287038 
+Action start 12:02:18: RegisterClassInfo.
+MSI (s) (18:F4) [12:02:18:058]: Doing action: RegisterExtensionInfo
+Action ended 12:02:18: RegisterClassInfo. Return value 1.
+MSI (s) (18:F4) [12:02:18:058]: Note: 1: 2262 2: Extension 3: -2147287038 
+Action start 12:02:18: RegisterExtensionInfo.
+MSI (s) (18:F4) [12:02:18:058]: Doing action: RegisterProgIdInfo
+Action ended 12:02:18: RegisterExtensionInfo. Return value 1.
+MSI (s) (18:F4) [12:02:18:059]: Note: 1: 2262 2: ProgId 3: -2147287038 
+MSI (s) (18:F4) [12:02:18:059]: Note: 1: 2262 2: Class 3: -2147287038 
+MSI (s) (18:F4) [12:02:18:059]: Note: 1: 2262 2: ProgId 3: -2147287038 
+MSI (s) (18:F4) [12:02:18:059]: Note: 1: 2262 2: Extension 3: -2147287038 
+Action start 12:02:18: RegisterProgIdInfo.
+MSI (s) (18:F4) [12:02:18:059]: Doing action: RegisterMIMEInfo
+Action ended 12:02:18: RegisterProgIdInfo. Return value 1.
+MSI (s) (18:F4) [12:02:18:059]: Note: 1: 2262 2: MIME 3: -2147287038 
+MSI (s) (18:F4) [12:02:18:059]: Note: 1: 2262 2: Extension 3: -2147287038 
+Action start 12:02:18: RegisterMIMEInfo.
+MSI (s) (18:F4) [12:02:18:059]: Doing action: WriteRegistryValues
+Action ended 12:02:18: RegisterMIMEInfo. Return value 1.
+MSI (s) (18:F4) [12:02:18:060]: Note: 1: 2262 2: LockPermissions 3: -2147287038 
+Action start 12:02:18: WriteRegistryValues.
+MSI (s) (18:F4) [12:02:18:060]: Doing action: WriteIniValues
+Action ended 12:02:18: WriteRegistryValues. Return value 1.
+Action start 12:02:18: WriteIniValues.
+MSI (s) (18:F4) [12:02:18:060]: Doing action: WriteEnvironmentStrings
+Action ended 12:02:18: WriteIniValues. Return value 1.
+MSI (s) (18:F4) [12:02:18:060]: Note: 1: 2262 2: Environment 3: -2147287038 
+Action start 12:02:18: WriteEnvironmentStrings.
+MSI (s) (18:F4) [12:02:18:060]: Doing action: RegisterFonts
+Action ended 12:02:18: WriteEnvironmentStrings. Return value 1.
+MSI (s) (18:F4) [12:02:18:060]: Note: 1: 2262 2: Font 3: -2147287038 
+Action start 12:02:18: RegisterFonts.
+MSI (s) (18:F4) [12:02:18:060]: Doing action: InstallODBC
+Action ended 12:02:18: RegisterFonts. Return value 1.
+MSI (s) (18:F4) [12:02:18:061]: Note: 1: 2711 2: ODBCDriverManager 
+MSI (s) (18:F4) [12:02:18:061]: Note: 1: 2711 2: ODBCDriverManager64 
+MSI (s) (18:F4) [12:02:18:061]: Note: 1: 2262 2: ODBCDriver 3: -2147287038 
+MSI (s) (18:F4) [12:02:18:061]: Note: 1: 2262 2: ODBCAttribute 3: -2147287038 
+MSI (s) (18:F4) [12:02:18:061]: Note: 1: 2262 2: ODBCDriver 3: -2147287038 
+MSI (s) (18:F4) [12:02:18:061]: Note: 1: 2262 2: ODBCAttribute 3: -2147287038 
+MSI (s) (18:F4) [12:02:18:061]: Note: 1: 2262 2: ODBCTranslator 3: -2147287038 
+MSI (s) (18:F4) [12:02:18:061]: Note: 1: 2262 2: ODBCTranslator 3: -2147287038 
+MSI (s) (18:F4) [12:02:18:061]: Note: 1: 2262 2: ODBCDataSource 3: -2147287038 
+MSI (s) (18:F4) [12:02:18:061]: Note: 1: 2262 2: ODBCSourceAttribute 3: -2147287038 
+MSI (s) (18:F4) [12:02:18:061]: Note: 1: 2262 2: ODBCDataSource 3: -2147287038 
+MSI (s) (18:F4) [12:02:18:061]: Note: 1: 2262 2: ODBCSourceAttribute 3: -2147287038 
+Action start 12:02:18: InstallODBC.
+MSI (s) (18:F4) [12:02:18:061]: Doing action: RegisterTypeLibraries
+Action ended 12:02:18: InstallODBC. Return value 0.
+MSI (s) (18:F4) [12:02:18:061]: Note: 1: 2262 2: TypeLib 3: -2147287038 
+Action start 12:02:18: RegisterTypeLibraries.
+MSI (s) (18:F4) [12:02:18:061]: Doing action: SelfRegModules
+Action ended 12:02:18: RegisterTypeLibraries. Return value 1.
+MSI (s) (18:F4) [12:02:18:061]: Note: 1: 2262 2: SelfReg 3: -2147287038 
+Action start 12:02:18: SelfRegModules.
+MSI (s) (18:F4) [12:02:18:061]: Doing action: RegisterComPlus
+Action ended 12:02:18: SelfRegModules. Return value 1.
+MSI (s) (18:F4) [12:02:18:062]: Note: 1: 2262 2: Complus 3: -2147287038 
+Action start 12:02:18: RegisterComPlus.
+MSI (s) (18:F4) [12:02:18:063]: Doing action: InstallServices
+Action ended 12:02:18: RegisterComPlus. Return value 1.
+MSI (s) (18:F4) [12:02:18:063]: Note: 1: 2262 2: LockPermissions 3: -2147287038 
+MSI (s) (18:F4) [12:02:18:063]: Note: 1: 2262 2: ServiceInstall 3: -2147287038 
+Action start 12:02:18: InstallServices.
+MSI (s) (18:F4) [12:02:18:063]: Doing action: StartServices
+Action ended 12:02:18: InstallServices. Return value 1.
+MSI (s) (18:F4) [12:02:18:063]: Note: 1: 2262 2: ServiceControl 3: -2147287038 
+Action start 12:02:18: StartServices.
+MSI (s) (18:F4) [12:02:18:063]: Doing action: RegisterUser
+Action ended 12:02:18: StartServices. Return value 1.
+Action start 12:02:18: RegisterUser.
+MSI (s) (18:F4) [12:02:18:064]: Doing action: RegisterProduct
+Action ended 12:02:18: RegisterUser. Return value 1.
+MSI (s) (18:F4) [12:02:18:064]: Note: 1: 2262 2: Error 3: -2147287038 
+Action start 12:02:18: RegisterProduct.
+MSI (s) (18:F4) [12:02:18:065]: PROPERTY CHANGE: Adding ProductToBeRegistered property. Its value is '1'.
+MSI (s) (18:F4) [12:02:18:065]: Doing action: PublishComponents
+Action ended 12:02:18: RegisterProduct. Return value 1.
+MSI (s) (18:F4) [12:02:18:066]: Note: 1: 2262 2: PublishComponent 3: -2147287038 
+Action start 12:02:18: PublishComponents.
+MSI (s) (18:F4) [12:02:18:066]: Doing action: MsiPublishAssemblies
+Action ended 12:02:18: PublishComponents. Return value 1.
+Action start 12:02:18: MsiPublishAssemblies.
+MSI (s) (18:F4) [12:02:18:066]: Doing action: PublishFeatures
+Action ended 12:02:18: MsiPublishAssemblies. Return value 1.
+Action start 12:02:18: PublishFeatures.
+MSI (s) (18:F4) [12:02:18:067]: Doing action: PublishProduct
+Action ended 12:02:18: PublishFeatures. Return value 1.
+Action start 12:02:18: PublishProduct.
+MSI (s) (18:F4) [12:02:18:069]: Doing action: InstallFinalize
+Action ended 12:02:18: PublishProduct. Return value 1.
+MSI (s) (18:F4) [12:02:18:070]: Running Script: C:\Windows\Installer\MSIE1C1.tmp
+MSI (s) (18:F4) [12:02:18:070]: PROPERTY CHANGE: Adding UpdateStarted property. Its value is '1'.
+MSI (s) (18:F4) [12:02:18:071]: Note: 1: 2265 2:  3: -2147287035 
+MSI (s) (18:F4) [12:02:18:072]: Machine policy value 'DisableRollback' is 0
+MSI (s) (18:F4) [12:02:18:072]: Note: 1: 2318 2:  
+MSI (s) (18:F4) [12:02:18:073]: Note: 1: 2318 2:  
+MSI (s) (18:F4) [12:02:18:073]: Note: 1: 1402 2: HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Installer\Rollback\Scripts 3: 2 
+MSI (s) (18:F4) [12:02:18:073]: Executing op: Header(Signature=1397708873,Version=500,Timestamp=1558667338,LangId=1033,Platform=589824,ScriptType=1,ScriptMajorVersion=21,ScriptMinorVersion=4,ScriptAttributes=0)
+Action start 12:02:18: InstallFinalize.
+MSI (s) (18:F4) [12:02:18:074]: Executing op: ProductInfo(ProductKey={2384BC12-775D-4353-9ACE-3D26D6D935D2},ProductName=Python 3.6 PyCapture2-2.13.61,PackageName=PyCapture2-2.13.61.win-amd64-py3.6.msi,Language=1033,Version=34406461,Assignment=0,ObsoleteArg=0,,,PackageCode={A0E54EF4-D0BE-4941-B253-6474EF4CF444},,,InstanceType=0,LUASetting=0,RemoteURTInstalls=0,ProductDeploymentFlags=3)
+MSI (s) (18:F4) [12:02:18:075]: SHELL32::SHGetFolderPath returned: C:\Users\pgmi2\AppData\Roaming
+MSI (s) (18:F4) [12:02:18:075]: SHELL32::SHGetFolderPath returned: C:\Users\pgmi2\AppData\Roaming
+MSI (s) (18:F4) [12:02:18:076]: SHELL32::SHGetFolderPath returned: C:\Users\pgmi2\AppData\Roaming
+MSI (s) (18:F4) [12:02:18:076]: Note: 1: 2318 2:  
+MSI (s) (18:F4) [12:02:18:077]: Executing op: DialogInfo(Type=0,Argument=1033)
+MSI (s) (18:F4) [12:02:18:077]: Executing op: DialogInfo(Type=1,Argument=Python 3.6 PyCapture2-2.13.61)
+MSI (s) (18:F4) [12:02:18:077]: Executing op: RollbackInfo(,RollbackAction=Rollback,RollbackDescription=Rolling back action:,RollbackTemplate=[1],CleanupAction=RollbackCleanup,CleanupDescription=Removing backup files,CleanupTemplate=File: [1])
+MSI (s) (18:F4) [12:02:18:077]: Executing op: SetBaseline(Baseline=0,)
+MSI (s) (18:F4) [12:02:18:077]: Executing op: SetBaseline(Baseline=1,)
+MSI (s) (18:F4) [12:02:18:077]: Executing op: ActionStart(Name=ProcessComponents,Description=Updating component registration,)
+MSI (s) (18:F4) [12:02:18:077]: Executing op: ProgressTotal(Total=8,Type=1,ByteEquivalent=24000)
+MSI (s) (18:F4) [12:02:18:079]: Executing op: UnregisterSharedComponentProvider(Component={486E1EC5-C935-4FDD-AA51-D2626C668FC7},ProductCode={2384BC12-775D-4353-9ACE-3D26D6D935D2})
+MSI (s) (18:F4) [12:02:18:079]: Note: 1: 1402 2: UNKNOWN\Components\5CE1E684539CDDF4AA152D26C666F87C 3: 2 
+MSI (s) (18:F4) [12:02:18:080]: Note: 1: 1402 2: UNKNOWN\Components\5CE1E684539CDDF4AA152D26C666F87C 3: 2 
+MSI (s) (18:F4) [12:02:18:080]: Executing op: ComponentUnregister(ComponentId={486E1EC5-C935-4FDD-AA51-D2626C668FC7},,BinaryType=1,PreviouslyPinned=1)
+MSI (s) (18:F4) [12:02:18:080]: Note: 1: 1402 2: UNKNOWN\Components\5CE1E684539CDDF4AA152D26C666F87C 3: 2 
+MSI (s) (18:F4) [12:02:18:080]: Note: 1: 1402 2: UNKNOWN\Components\5CE1E684539CDDF4AA152D26C666F87C 3: 2 
+MSI (s) (18:F4) [12:02:18:080]: Executing op: UnregisterSharedComponentProvider(Component={816383CB-9459-4EB4-9587-A79BDECBE9EB},ProductCode={2384BC12-775D-4353-9ACE-3D26D6D935D2})
+MSI (s) (18:F4) [12:02:18:080]: Note: 1: 1402 2: UNKNOWN\Components\BC38361895494BE459787AB9EDBC9EBE 3: 2 
+MSI (s) (18:F4) [12:02:18:080]: Note: 1: 1402 2: UNKNOWN\Components\BC38361895494BE459787AB9EDBC9EBE 3: 2 
+MSI (s) (18:F4) [12:02:18:080]: Executing op: ComponentUnregister(ComponentId={816383CB-9459-4EB4-9587-A79BDECBE9EB},,BinaryType=1,PreviouslyPinned=1)
+MSI (s) (18:F4) [12:02:18:080]: Note: 1: 1402 2: UNKNOWN\Components\BC38361895494BE459787AB9EDBC9EBE 3: 2 
+MSI (s) (18:F4) [12:02:18:080]: Note: 1: 1402 2: UNKNOWN\Components\BC38361895494BE459787AB9EDBC9EBE 3: 2 
+MSI (s) (18:F4) [12:02:18:080]: Executing op: UnregisterSharedComponentProvider(Component={7C40C728-1548-4F29-B25D-2B1D9A13FCB5},ProductCode={2384BC12-775D-4353-9ACE-3D26D6D935D2})
+MSI (s) (18:F4) [12:02:18:080]: Note: 1: 1402 2: UNKNOWN\Components\827C04C7845192F42BD5B2D1A931CF5B 3: 2 
+MSI (s) (18:F4) [12:02:18:080]: Note: 1: 1402 2: UNKNOWN\Components\827C04C7845192F42BD5B2D1A931CF5B 3: 2 
+MSI (s) (18:F4) [12:02:18:080]: Executing op: ComponentUnregister(ComponentId={7C40C728-1548-4F29-B25D-2B1D9A13FCB5},,BinaryType=1,PreviouslyPinned=1)
+MSI (s) (18:F4) [12:02:18:081]: Note: 1: 1402 2: UNKNOWN\Components\827C04C7845192F42BD5B2D1A931CF5B 3: 2 
+MSI (s) (18:F4) [12:02:18:081]: Note: 1: 1402 2: UNKNOWN\Components\827C04C7845192F42BD5B2D1A931CF5B 3: 2 
+MSI (s) (18:F4) [12:02:18:081]: Executing op: UnregisterSharedComponentProvider(Component={C3DB1994-C796-4242-98D4-719D9CBE8870},ProductCode={2384BC12-775D-4353-9ACE-3D26D6D935D2})
+MSI (s) (18:F4) [12:02:18:081]: Note: 1: 1402 2: UNKNOWN\Components\4991BD3C697C2424894D17D9C9EB8807 3: 2 
+MSI (s) (18:F4) [12:02:18:081]: Note: 1: 1402 2: UNKNOWN\Components\4991BD3C697C2424894D17D9C9EB8807 3: 2 
+MSI (s) (18:F4) [12:02:18:081]: Executing op: ComponentUnregister(ComponentId={C3DB1994-C796-4242-98D4-719D9CBE8870},,BinaryType=1,PreviouslyPinned=1)
+MSI (s) (18:F4) [12:02:18:081]: Note: 1: 1402 2: UNKNOWN\Components\4991BD3C697C2424894D17D9C9EB8807 3: 2 
+MSI (s) (18:F4) [12:02:18:081]: Note: 1: 1402 2: UNKNOWN\Components\4991BD3C697C2424894D17D9C9EB8807 3: 2 
+MSI (s) (18:F4) [12:02:18:081]: Executing op: UnregisterSharedComponentProvider(Component={30B629F0-93FE-4CE0-A960-EB7AB8D57666},ProductCode={2384BC12-775D-4353-9ACE-3D26D6D935D2})
+MSI (s) (18:F4) [12:02:18:081]: Note: 1: 1402 2: UNKNOWN\Components\0F926B03EF390EC49A06BEA78B5D6766 3: 2 
+MSI (s) (18:F4) [12:02:18:081]: Note: 1: 1402 2: UNKNOWN\Components\0F926B03EF390EC49A06BEA78B5D6766 3: 2 
+MSI (s) (18:F4) [12:02:18:081]: Executing op: ComponentUnregister(ComponentId={30B629F0-93FE-4CE0-A960-EB7AB8D57666},,BinaryType=1,PreviouslyPinned=1)
+MSI (s) (18:F4) [12:02:18:081]: Note: 1: 1402 2: UNKNOWN\Components\0F926B03EF390EC49A06BEA78B5D6766 3: 2 
+MSI (s) (18:F4) [12:02:18:081]: Note: 1: 1402 2: UNKNOWN\Components\0F926B03EF390EC49A06BEA78B5D6766 3: 2 
+MSI (s) (18:F4) [12:02:18:081]: Executing op: UnregisterSharedComponentProvider(Component={A37F4A4D-9A55-49DE-B47E-9BD8073258F4},ProductCode={2384BC12-775D-4353-9ACE-3D26D6D935D2})
+MSI (s) (18:F4) [12:02:18:081]: Note: 1: 1402 2: UNKNOWN\Components\D4A4F73A55A9ED944BE7B98D7023854F 3: 2 
+MSI (s) (18:F4) [12:02:18:081]: Note: 1: 1402 2: UNKNOWN\Components\D4A4F73A55A9ED944BE7B98D7023854F 3: 2 
+MSI (s) (18:F4) [12:02:18:081]: Executing op: ComponentUnregister(ComponentId={A37F4A4D-9A55-49DE-B47E-9BD8073258F4},,BinaryType=1,PreviouslyPinned=1)
+MSI (s) (18:F4) [12:02:18:081]: Note: 1: 1402 2: UNKNOWN\Components\D4A4F73A55A9ED944BE7B98D7023854F 3: 2 
+MSI (s) (18:F4) [12:02:18:081]: Note: 1: 1402 2: UNKNOWN\Components\D4A4F73A55A9ED944BE7B98D7023854F 3: 2 
+MSI (s) (18:F4) [12:02:18:081]: Executing op: UnregisterSharedComponentProvider(Component={B5D5ADB7-DEF3-4E4A-86BE-DE51B7028EB8},ProductCode={2384BC12-775D-4353-9ACE-3D26D6D935D2})
+MSI (s) (18:F4) [12:02:18:081]: Note: 1: 1402 2: UNKNOWN\Components\7BDA5D5B3FEDA4E468EBED157B20E88B 3: 2 
+MSI (s) (18:F4) [12:02:18:081]: Note: 1: 1402 2: UNKNOWN\Components\7BDA5D5B3FEDA4E468EBED157B20E88B 3: 2 
+MSI (s) (18:F4) [12:02:18:081]: Executing op: ComponentUnregister(ComponentId={B5D5ADB7-DEF3-4E4A-86BE-DE51B7028EB8},,BinaryType=1,PreviouslyPinned=1)
+MSI (s) (18:F4) [12:02:18:081]: Note: 1: 1402 2: UNKNOWN\Components\7BDA5D5B3FEDA4E468EBED157B20E88B 3: 2 
+MSI (s) (18:F4) [12:02:18:081]: Note: 1: 1402 2: UNKNOWN\Components\7BDA5D5B3FEDA4E468EBED157B20E88B 3: 2 
+MSI (s) (18:F4) [12:02:18:081]: Executing op: UnregisterSharedComponentProvider(Component={E828F467-C1C3-42A3-B377-3AA2070E22B1},ProductCode={2384BC12-775D-4353-9ACE-3D26D6D935D2})
+MSI (s) (18:F4) [12:02:18:081]: Note: 1: 1402 2: UNKNOWN\Components\764F828E3C1C3A243B77A32A70E0221B 3: 2 
+MSI (s) (18:F4) [12:02:18:081]: Note: 1: 1402 2: UNKNOWN\Components\764F828E3C1C3A243B77A32A70E0221B 3: 2 
+MSI (s) (18:F4) [12:02:18:081]: Executing op: ComponentUnregister(ComponentId={E828F467-C1C3-42A3-B377-3AA2070E22B1},,BinaryType=1,PreviouslyPinned=1)
+MSI (s) (18:F4) [12:02:18:082]: Note: 1: 1402 2: UNKNOWN\Components\764F828E3C1C3A243B77A32A70E0221B 3: 2 
+MSI (s) (18:F4) [12:02:18:082]: Note: 1: 1402 2: UNKNOWN\Components\764F828E3C1C3A243B77A32A70E0221B 3: 2 
+MSI (s) (18:F4) [12:02:18:082]: Executing op: ProgressTotal(Total=16,Type=1,ByteEquivalent=24000)
+MSI (s) (18:F4) [12:02:18:082]: Executing op: ComponentRegister(ComponentId={DBD7F799-0040-46B5-8825-8A7CAA59E719},KeyPath=C:\Users\pgmi2\AppData\Local\Programs\Python\Python36\,State=3,,Disk=1,SharedDllRefCount=0,BinaryType=1)
+MSI (s) (18:F4) [12:02:18:082]: Executing op: ComponentRegister(ComponentId={51377B7A-90CE-4372-977E-169217077CD3},KeyPath=C:\,State=3,,Disk=1,SharedDllRefCount=0,BinaryType=1)
+MSI (s) (18:F4) [12:02:18:083]: Executing op: ComponentRegister(ComponentId={91F40AB5-E976-4922-A45B-CFA10549112C},KeyPath=C:\PyCapture2\docs\,State=3,,Disk=1,SharedDllRefCount=0,BinaryType=1)
+MSI (s) (18:F4) [12:02:18:084]: Executing op: ComponentRegister(ComponentId={E79DD316-E241-4743-8783-B14545BC61A1},KeyPath=C:\PyCapture2\driver\,State=3,,Disk=1,SharedDllRefCount=0,BinaryType=1)
+MSI (s) (18:F4) [12:02:18:084]: Executing op: ComponentRegister(ComponentId={209F3219-E2C6-408C-9862-4C88150D1FF9},KeyPath=C:\PyCapture2\driver64\,State=3,,Disk=1,SharedDllRefCount=0,BinaryType=1)
+MSI (s) (18:F4) [12:02:18:085]: Executing op: ComponentRegister(ComponentId={C7720C98-909A-4BE7-A4EE-DD395404CAF0},KeyPath=C:\PyCapture2\examples\,State=3,,Disk=1,SharedDllRefCount=0,BinaryType=1)
+MSI (s) (18:F4) [12:02:18:085]: Executing op: ComponentRegister(ComponentId={A2A1276F-748E-46CA-8DEE-1F46A345EA05},KeyPath=C:\PyCapture2\licenses\,State=3,,Disk=1,SharedDllRefCount=0,BinaryType=1)
+MSI (s) (18:F4) [12:02:18:086]: Executing op: ComponentRegister(ComponentId={05CF6521-9E8F-427A-A1DF-F1A11F039CB7},KeyPath=C:\Lib\site-packages\,State=3,,Disk=1,SharedDllRefCount=0,BinaryType=1)
+MSI (s) (18:F4) [12:02:18:086]: Executing op: ComponentRegister(ComponentId={35F1017E-9FCC-4189-9F42-95B533FF4B07},KeyPath=C:\Lib\site-packages\PyCapture2-2.13.61-py3.6.egg-info\,State=3,,Disk=1,SharedDllRefCount=0,BinaryType=1)
+MSI (s) (18:F4) [12:02:18:087]: Executing op: ComponentRegister(ComponentId={ED7AB954-8E73-400D-9D60-CE552E9B3F29},KeyPath=C:\Users\pgmi2\AppData\Local\Programs\Python\Python36\PyCapture2\docs\,State=3,,Disk=1,SharedDllRefCount=0,BinaryType=1)
+MSI (s) (18:F4) [12:02:18:087]: Executing op: ComponentRegister(ComponentId={895941DE-09AD-49F1-93E5-7578BEB68ADA},KeyPath=C:\Users\pgmi2\AppData\Local\Programs\Python\Python36\PyCapture2\driver\,State=3,,Disk=1,SharedDllRefCount=0,BinaryType=1)
+MSI (s) (18:F4) [12:02:18:087]: Executing op: ComponentRegister(ComponentId={C2487281-B182-43B4-A34F-C900602BBDBF},KeyPath=C:\Users\pgmi2\AppData\Local\Programs\Python\Python36\PyCapture2\driver64\,State=3,,Disk=1,SharedDllRefCount=0,BinaryType=1)
+MSI (s) (18:F4) [12:02:18:087]: Executing op: ComponentRegister(ComponentId={BEDC3140-A915-4FE9-83C4-FACE27B07A9A},KeyPath=C:\Users\pgmi2\AppData\Local\Programs\Python\Python36\PyCapture2\examples\,State=3,,Disk=1,SharedDllRefCount=0,BinaryType=1)
+MSI (s) (18:F4) [12:02:18:088]: Executing op: ComponentRegister(ComponentId={58EAE69F-0EE8-4451-9150-D020A179CEF2},KeyPath=C:\Users\pgmi2\AppData\Local\Programs\Python\Python36\PyCapture2\licenses\,State=3,,Disk=1,SharedDllRefCount=0,BinaryType=1)
+MSI (s) (18:F4) [12:02:18:088]: Executing op: ComponentRegister(ComponentId={699A96C9-945E-491A-84BE-68D84BF00A4A},KeyPath=C:\Users\pgmi2\AppData\Local\Programs\Python\Python36\Lib\site-packages\,State=3,,Disk=1,SharedDllRefCount=0,BinaryType=1)
+MSI (s) (18:F4) [12:02:18:088]: Executing op: ComponentRegister(ComponentId={076E9FEF-FAB8-4F38-8F06-CAEC7562107B},KeyPath=C:\Users\pgmi2\AppData\Local\Programs\Python\Python36\Lib\site-packages\PyCapture2-2.13.61-py3.6.egg-info\,State=3,,Disk=1,SharedDllRefCount=0,BinaryType=1)
+MSI (s) (18:F4) [12:02:18:088]: Executing op: ActionStart(Name=RemoveODBC,Description=Removing ODBC components,)
+MSI (s) (18:F4) [12:02:18:089]: Executing op: ODBCDriverManager(,BinaryType=0)
+MSI (s) (18:F4) [12:02:18:089]: Executing op: ODBCDriverManager(,BinaryType=1)
+MSI (s) (18:F4) [12:02:18:089]: Executing op: ActionStart(Name=InstallFiles,Description=Copying new files,Template=File: [1],  Directory: [9],  Size: [6])
+MSI (s) (18:F4) [12:02:18:089]: Executing op: ProgressTotal(Total=75288249,Type=0,ByteEquivalent=1)
+MSI (s) (18:F4) [12:02:18:089]: Executing op: SetTargetFolder(Folder=C:\)
+MSI (s) (18:F4) [12:02:18:089]: Executing op: SetSourceFolder(Folder=1\)
+MSI (s) (18:F4) [12:02:18:089]: Executing op: ChangeMedia(,MediaPrompt=Please insert the disk: ,MediaCabinet=distfiles,BytesPerTick=65536,CopierType=2,ModuleFileName=C:\Windows\Installer\23872633.msi,,,,,IsFirstPhysicalMedia=1)
+MSI (s) (18:F4) [12:02:18:089]: Executing op: FileCopy(SourceName=AVCODE~1.DLL|avcodec-57.dll,SourceCabKey=avcodec_57.dll,DestName=avcodec-57.dll,Attributes=512,FileSize=29471104,PerTick=65536,,VerifyMedia=1,,,,,CheckCRC=0,,,InstallMode=58982400,,,,,,,)
+MSI (s) (18:F4) [12:02:18:089]: File: C:\avcodec-57.dll;	To be installed;	Won't patch;	No existing file
+MSI (s) (18:F4) [12:02:18:089]: Source for file 'avcodec_57.dll' is compressed
+MSI (s) (18:F4) [12:02:18:090]: Note: 1: 1310 2: 0 3: C:\avcodec-57.dll 
+MSI (s) (18:F4) [12:02:18:091]: Note: 1: 2262 2: Error 3: -2147287038 
+MSI (s) (18:F4) [12:02:18:091]: Note: 1: 2262 2: Error 3: -2147287038 
+MSI (s) (18:F4) [12:02:18:091]: Product: Python 3.6 PyCapture2-2.13.61 -- Error 1310. Error writing to file: C:\avcodec-57.dll.  System error 0.  Verify that you have access to that directory.
+
+Error 1310. Error writing to file: C:\avcodec-57.dll.  System error 0.  Verify that you have access to that directory.
+MSI (s) (18:F4) [12:02:18:094]: Note: 1: 2265 2:  3: -2147287035 
+MSI (s) (18:F4) [12:02:18:094]: User policy value 'DisableRollback' is 0
+MSI (s) (18:F4) [12:02:18:094]: Machine policy value 'DisableRollback' is 0
+Action ended 12:02:18: InstallFinalize. Return value 3.
+MSI (s) (18:F4) [12:02:18:095]: Note: 1: 2318 2:  
+MSI (s) (18:F4) [12:02:18:095]: Executing op: Header(Signature=1397708873,Version=500,Timestamp=1558667338,LangId=1033,Platform=589824,ScriptType=2,ScriptMajorVersion=21,ScriptMinorVersion=4,ScriptAttributes=0)
+MSI (s) (18:F4) [12:02:18:095]: Executing op: DialogInfo(Type=0,Argument=1033)
+MSI (s) (18:F4) [12:02:18:095]: Executing op: DialogInfo(Type=1,Argument=Python 3.6 PyCapture2-2.13.61)
+MSI (s) (18:F4) [12:02:18:095]: Executing op: RollbackInfo(,RollbackAction=Rollback,RollbackDescription=Rolling back action:,RollbackTemplate=[1],CleanupAction=RollbackCleanup,CleanupDescription=Removing backup files,CleanupTemplate=File: [1])
+MSI (s) (18:F4) [12:02:18:095]: Executing op: ActionStart(Name=InstallFiles,Description=Copying new files,Template=File: [1],  Directory: [9],  Size: [6])
+MSI (s) (18:F4) [12:02:18:095]: Executing op: SetTargetFolder(Folder=C:\)
+MSI (s) (18:F4) [12:02:18:096]: Executing op: ProductInfo(ProductKey={2384BC12-775D-4353-9ACE-3D26D6D935D2},ProductName=Python 3.6 PyCapture2-2.13.61,PackageName=PyCapture2-2.13.61.win-amd64-py3.6.msi,Language=1033,Version=34406461,Assignment=0,ObsoleteArg=0,,,PackageCode={A0E54EF4-D0BE-4941-B253-6474EF4CF444},,,InstanceType=0,LUASetting=0,RemoteURTInstalls=0,ProductDeploymentFlags=3)
+MSI (s) (18:F4) [12:02:18:096]: SHELL32::SHGetFolderPath returned: C:\Users\pgmi2\AppData\Roaming
+MSI (s) (18:F4) [12:02:18:097]: SHELL32::SHGetFolderPath returned: C:\Users\pgmi2\AppData\Roaming
+MSI (s) (18:F4) [12:02:18:098]: SHELL32::SHGetFolderPath returned: C:\Users\pgmi2\AppData\Roaming
+MSI (s) (18:F4) [12:02:18:098]: Note: 1: 2318 2:  
+MSI (s) (18:F4) [12:02:18:099]: Executing op: FileRemove(,FileName=C:\avcodec-57.dll,,)
+MSI (s) (18:F4) [12:02:18:099]: Executing op: ActionStart(Name=RemoveODBC,Description=Removing ODBC components,)
+MSI (s) (18:F4) [12:02:18:099]: Executing op: ActionStart(Name=ProcessComponents,Description=Updating component registration,)
+MSI (s) (18:F4) [12:02:18:099]: Executing op: ComponentUnregister(ComponentId={076E9FEF-FAB8-4F38-8F06-CAEC7562107B},ProductKey={2384BC12-775D-4353-9ACE-3D26D6D935D2},BinaryType=1,)
+MSI (s) (18:F4) [12:02:18:101]: Executing op: ComponentUnregister(ComponentId={699A96C9-945E-491A-84BE-68D84BF00A4A},ProductKey={2384BC12-775D-4353-9ACE-3D26D6D935D2},BinaryType=1,)
+MSI (s) (18:F4) [12:02:18:101]: Executing op: ComponentUnregister(ComponentId={58EAE69F-0EE8-4451-9150-D020A179CEF2},ProductKey={2384BC12-775D-4353-9ACE-3D26D6D935D2},BinaryType=1,)
+MSI (s) (18:F4) [12:02:18:101]: Executing op: ComponentUnregister(ComponentId={BEDC3140-A915-4FE9-83C4-FACE27B07A9A},ProductKey={2384BC12-775D-4353-9ACE-3D26D6D935D2},BinaryType=1,)
+MSI (s) (18:F4) [12:02:18:102]: Executing op: ComponentUnregister(ComponentId={C2487281-B182-43B4-A34F-C900602BBDBF},ProductKey={2384BC12-775D-4353-9ACE-3D26D6D935D2},BinaryType=1,)
+MSI (s) (18:F4) [12:02:18:102]: Executing op: ComponentUnregister(ComponentId={895941DE-09AD-49F1-93E5-7578BEB68ADA},ProductKey={2384BC12-775D-4353-9ACE-3D26D6D935D2},BinaryType=1,)
+MSI (s) (18:F4) [12:02:18:102]: Executing op: ComponentUnregister(ComponentId={ED7AB954-8E73-400D-9D60-CE552E9B3F29},ProductKey={2384BC12-775D-4353-9ACE-3D26D6D935D2},BinaryType=1,)
+MSI (s) (18:F4) [12:02:18:103]: Executing op: ComponentUnregister(ComponentId={35F1017E-9FCC-4189-9F42-95B533FF4B07},ProductKey={2384BC12-775D-4353-9ACE-3D26D6D935D2},BinaryType=1,)
+MSI (s) (18:F4) [12:02:18:103]: Executing op: ComponentUnregister(ComponentId={05CF6521-9E8F-427A-A1DF-F1A11F039CB7},ProductKey={2384BC12-775D-4353-9ACE-3D26D6D935D2},BinaryType=1,)
+MSI (s) (18:F4) [12:02:18:103]: Executing op: ComponentUnregister(ComponentId={A2A1276F-748E-46CA-8DEE-1F46A345EA05},ProductKey={2384BC12-775D-4353-9ACE-3D26D6D935D2},BinaryType=1,)
+MSI (s) (18:F4) [12:02:18:103]: Executing op: ComponentUnregister(ComponentId={C7720C98-909A-4BE7-A4EE-DD395404CAF0},ProductKey={2384BC12-775D-4353-9ACE-3D26D6D935D2},BinaryType=1,)
+MSI (s) (18:F4) [12:02:18:103]: Executing op: ComponentUnregister(ComponentId={209F3219-E2C6-408C-9862-4C88150D1FF9},ProductKey={2384BC12-775D-4353-9ACE-3D26D6D935D2},BinaryType=1,)
+MSI (s) (18:F4) [12:02:18:104]: Executing op: ComponentUnregister(ComponentId={E79DD316-E241-4743-8783-B14545BC61A1},ProductKey={2384BC12-775D-4353-9ACE-3D26D6D935D2},BinaryType=1,)
+MSI (s) (18:F4) [12:02:18:104]: Executing op: ComponentUnregister(ComponentId={91F40AB5-E976-4922-A45B-CFA10549112C},ProductKey={2384BC12-775D-4353-9ACE-3D26D6D935D2},BinaryType=1,)
+MSI (s) (18:F4) [12:02:18:104]: Executing op: ComponentUnregister(ComponentId={51377B7A-90CE-4372-977E-169217077CD3},ProductKey={2384BC12-775D-4353-9ACE-3D26D6D935D2},BinaryType=1,)
+MSI (s) (18:F4) [12:02:18:104]: Executing op: ComponentUnregister(ComponentId={DBD7F799-0040-46B5-8825-8A7CAA59E719},ProductKey={2384BC12-775D-4353-9ACE-3D26D6D935D2},BinaryType=1,)
+MSI (s) (18:F4) [12:02:18:104]: Executing op: End(Checksum=0,ProgressTotalHDWord=0,ProgressTotalLDWord=0)
+MSI (s) (18:F4) [12:02:18:104]: Error in rollback skipped.	Return: 5
+MSI (s) (18:F4) [12:02:18:107]: Note: 1: 2318 2:  
+MSI (s) (18:F4) [12:02:18:107]: Note: 1: 2318 2:  
+MSI (s) (18:F4) [12:02:18:108]: No System Restore sequence number for this installation.
+MSI (s) (18:F4) [12:02:18:108]: Unlocking Server
+MSI (s) (18:F4) [12:02:18:108]: PROPERTY CHANGE: Deleting UpdateStarted property. Its current value is '1'.
+Action ended 12:02:18: INSTALL. Return value 3.
+Property(S): ProductName = Python 3.6 PyCapture2-2.13.61
+Property(S): ProductCode = {2384BC12-775D-4353-9ACE-3D26D6D935D2}
+Property(S): ProductVersion = 2.13.61
+Property(S): Manufacturer = FLIR Integrated Imaging Solutions, Inc
+Property(S): ProductLanguage = 1033
+Property(S): VersionNT = 603
+Property(S): DistVersion = 2.13.61
+Property(S): ARPURLINFOABOUT = https://www.ptgrey.com/
+Property(S): PYTHON.USER.3.6 = C:\Users\pgmi2\AppData\Local\Programs\Python\Python36\
+Property(S): TARGETDIR3.6 = C:\Users\pgmi2\AppData\Local\Programs\Python\Python36\
+Property(S): PYTHON3.6 = C:\Users\pgmi2\AppData\Local\Programs\Python\Python36\\python.exe
+Property(S): SourceDir = C:\Users\pgmi2\Downloads\PyCapture2_extracted\
+Property(S): TARGETDIR = C:\
+Property(S): TARGETDIRX = C:\PythonX\
+Property(S): Lib = C:\Lib\
+Property(S): PyCapture2 = C:\PyCapture2\
+Property(S): docs = C:\PyCapture2\docs\
+Property(S): driver = C:\PyCapture2\driver\
+Property(S): driver64 = C:\PyCapture2\driver64\
+Property(S): examples = C:\PyCapture2\examples\
+Property(S): licenses = C:\PyCapture2\licenses\
+Property(S): site_packages = C:\Lib\site-packages\
+Property(S): PyCapture2_2.13.61_py3.6.egg_info = C:\Lib\site-packages\PyCapture2-2.13.61-py3.6.egg-info\
+Property(S): Lib3.6 = C:\Users\pgmi2\AppData\Local\Programs\Python\Python36\Lib\
+Property(S): PyCapture23.6 = C:\Users\pgmi2\AppData\Local\Programs\Python\Python36\PyCapture2\
+Property(S): docs3.6 = C:\Users\pgmi2\AppData\Local\Programs\Python\Python36\PyCapture2\docs\
+Property(S): driver3.6 = C:\Users\pgmi2\AppData\Local\Programs\Python\Python36\PyCapture2\driver\
+Property(S): driver643.6 = C:\Users\pgmi2\AppData\Local\Programs\Python\Python36\PyCapture2\driver64\
+Property(S): examples3.6 = C:\Users\pgmi2\AppData\Local\Programs\Python\Python36\PyCapture2\examples\
+Property(S): licenses3.6 = C:\Users\pgmi2\AppData\Local\Programs\Python\Python36\PyCapture2\licenses\
+Property(S): site_packages3.6 = C:\Users\pgmi2\AppData\Local\Programs\Python\Python36\Lib\site-packages\
+Property(S): PyCapture2_2.13.61_py3.6.egg_info3.6 = C:\Users\pgmi2\AppData\Local\Programs\Python\Python36\Lib\site-packages\PyCapture2-2.13.61-py3.6.egg-info\
+Property(S): LibX = C:\PythonX\Lib\
+Property(S): PyCapture2X = C:\PythonX\PyCapture2\
+Property(S): docsX = C:\PythonX\PyCapture2\docs\
+Property(S): driverX = C:\PythonX\PyCapture2\driver\
+Property(S): driver64X = C:\PythonX\PyCapture2\driver64\
+Property(S): examplesX = C:\PythonX\PyCapture2\examples\
+Property(S): licensesX = C:\PythonX\PyCapture2\licenses\
+Property(S): site_packagesX = C:\PythonX\Lib\site-packages\
+Property(S): PyCapture2_2.13.61_py3.6.egg_infoX = C:\PythonX\Lib\site-packages\PyCapture2-2.13.61-py3.6.egg-info\
+Property(S): DefaultUIFont = DlgFont8
+Property(S): ErrorDialog = ErrorDlg
+Property(S): Progress1 = Install
+Property(S): Progress2 = installs
+Property(S): MaintenanceForm_Action = Repair
+Property(S): WhichUsers = ALL
+Property(S): MsiLogFileLocation = C:\Users\pgmi2\camera_script\msi_install.log
+Property(S): PackageCode = {A0E54EF4-D0BE-4941-B253-6474EF4CF444}
+Property(S): ProductState = -1
+Property(S): PackagecodeChanging = 1
+Property(S): REBOOT = ReallySuppress
+Property(S): CURRENTDIRECTORY = C:\Users\pgmi2\Downloads
+Property(S): CLIENTUILEVEL = 3
+Property(S): CLIENTPROCESSID = 33020
+Property(S): MsiSystemRebootPending = 1
+Property(S): VersionDatabase = 200
+Property(S): VersionMsi = 5.00
+Property(S): VersionNT64 = 603
+Property(S): WindowsBuild = 9600
+Property(S): ServicePackLevel = 0
+Property(S): ServicePackLevelMinor = 0
+Property(S): MsiNTProductType = 1
+Property(S): MsiNTSuitePersonal = 1
+Property(S): WindowsFolder = C:\Windows\
+Property(S): WindowsVolume = C:\
+Property(S): System64Folder = C:\Windows\system32\
+Property(S): SystemFolder = C:\Windows\SysWOW64\
+Property(S): RemoteAdminTS = 1
+Property(S): TempFolder = C:\Users\pgmi2\AppData\Local\Temp\
+Property(S): ProgramFilesFolder = C:\Program Files (x86)\
+Property(S): CommonFilesFolder = C:\Program Files (x86)\Common Files\
+Property(S): ProgramFiles64Folder = C:\Program Files\
+Property(S): CommonFiles64Folder = C:\Program Files\Common Files\
+Property(S): AppDataFolder = C:\Users\pgmi2\AppData\Roaming\
+Property(S): FavoritesFolder = C:\Users\pgmi2\Favorites\
+Property(S): NetHoodFolder = C:\Users\pgmi2\AppData\Roaming\Microsoft\Windows\Network Shortcuts\
+Property(S): PersonalFolder = C:\Users\pgmi2\OneDrive\Documents\
+Property(S): PrintHoodFolder = C:\Users\pgmi2\AppData\Roaming\Microsoft\Windows\Printer Shortcuts\
+Property(S): RecentFolder = C:\Users\pgmi2\AppData\Roaming\Microsoft\Windows\Recent\
+Property(S): SendToFolder = C:\Users\pgmi2\AppData\Roaming\Microsoft\Windows\SendTo\
+Property(S): TemplateFolder = C:\Users\pgmi2\AppData\Roaming\Microsoft\Windows\Templates\
+Property(S): CommonAppDataFolder = C:\ProgramData\
+Property(S): LocalAppDataFolder = C:\Users\pgmi2\AppData\Local\
+Property(S): MyPicturesFolder = C:\Users\pgmi2\OneDrive\Pictures\
+Property(S): AdminToolsFolder = C:\Users\pgmi2\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Administrative Tools\
+Property(S): StartupFolder = C:\Users\pgmi2\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\
+Property(S): ProgramMenuFolder = C:\Users\pgmi2\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\
+Property(S): StartMenuFolder = C:\Users\pgmi2\AppData\Roaming\Microsoft\Windows\Start Menu\
+Property(S): DesktopFolder = C:\Users\pgmi2\OneDrive\Desktop\
+Property(S): FontsFolder = C:\Windows\Fonts\
+Property(S): GPTSupport = 1
+Property(S): OLEAdvtSupport = 1
+Property(S): ShellAdvtSupport = 1
+Property(S): MsiAMD64 = 6
+Property(S): Msix64 = 6
+Property(S): Intel = 6
+Property(S): PhysicalMemory = 32550
+Property(S): VirtualMemory = 17486
+Property(S): LogonUser = pgmi2
+Property(S): UserSID = S-1-5-21-3689205024-2015703385-1489560561-1003
+Property(S): UserLanguageID = 1033
+Property(S): ComputerName = DIMAS_GROUP
+Property(S): SystemLanguageID = 1033
+Property(S): ScreenX = 1024
+Property(S): ScreenY = 768
+Property(S): CaptionHeight = 23
+Property(S): BorderTop = 1
+Property(S): BorderSide = 1
+Property(S): TextHeight = 16
+Property(S): TextInternalLeading = 3
+Property(S): ColorBits = 32
+Property(S): TTCSupport = 1
+Property(S): Time = 12:02:18
+Property(S): Date = 7/7/2026
+Property(S): MsiNetAssemblySupport = 4.8.9221.0
+Property(S): MsiWin32AssemblySupport = 6.3.26100.8328
+Property(S): RedirectedDllSupport = 2
+Property(S): USERNAME = pgmi2026@outlook.com
+Property(S): DATABASE = C:\Windows\Installer\23872633.msi
+Property(S): OriginalDatabase = C:\Users\pgmi2\Downloads\PyCapture2_extracted\PyCapture2-2.13.61.win-amd64-py3.6.msi
+Property(S): UILevel = 2
+Property(S): ACTION = INSTALL
+Property(S): ROOTDRIVE = C:\
+Property(S): CostingComplete = 1
+Property(S): OutOfDiskSpace = 0
+Property(S): OutOfNoRbDiskSpace = 0
+Property(S): PrimaryVolumeSpaceAvailable = 0
+Property(S): PrimaryVolumeSpaceRequired = 0
+Property(S): PrimaryVolumeSpaceRemaining = 0
+Property(S): INSTALLLEVEL = 1
+Property(S): SOURCEDIR = C:\Users\pgmi2\Downloads\PyCapture2_extracted\
+Property(S): SourcedirProduct = {2384BC12-775D-4353-9ACE-3D26D6D935D2}
+Property(S): ProductToBeRegistered = 1
+MSI (s) (18:F4) [12:02:18:120]: Note: 1: 1708 
+MSI (s) (18:F4) [12:02:18:120]: Note: 1: 2262 2: Error 3: -2147287038 
+MSI (s) (18:F4) [12:02:18:120]: Note: 1: 2262 2: Error 3: -2147287038 
+MSI (s) (18:F4) [12:02:18:120]: Product: Python 3.6 PyCapture2-2.13.61 -- Installation failed.
+
+MSI (s) (18:F4) [12:02:18:120]: Windows Installer installed the product. Product Name: Python 3.6 PyCapture2-2.13.61. Product Version: 2.13.61. Product Language: 1033. Manufacturer: FLIR Integrated Imaging Solutions, Inc. Installation success or error status: 1603.
+
+MSI (s) (18:F4) [12:02:18:123]: Deferring clean up of packages/files, if any exist
+MSI (s) (18:F4) [12:02:18:123]: MainEngineThread is returning 1603
+MSI (s) (18:F4) [12:02:18:125]: RESTART MANAGER: Session closed.
+MSI (s) (18:F4) [12:02:18:125]: No System Restore sequence number for this installation.
+=== Logging stopped: 7/7/2026  12:02:18 ===
+MSI (s) (18:F4) [12:02:18:126]: User policy value 'DisableRollback' is 0
+MSI (s) (18:F4) [12:02:18:126]: Machine policy value 'DisableRollback' is 0
+MSI (s) (18:F4) [12:02:18:126]: Incrementing counter to disable shutdown. Counter after increment: 0
+MSI (s) (18:F4) [12:02:18:127]: Note: 1: 1402 2: HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Installer\Rollback\Scripts 3: 2 
+MSI (s) (18:F4) [12:02:18:127]: Note: 1: 1402 2: HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Installer\Rollback\Scripts 3: 2 
+MSI (s) (18:F4) [12:02:18:127]: Decrementing counter to disable shutdown. If counter >= 0, shutdown will be denied.  Counter after decrement: -1
+MSI (c) (FC:08) [12:02:18:127]: Decrementing counter to disable shutdown. If counter >= 0, shutdown will be denied.  Counter after decrement: -1
+MSI (c) (FC:08) [12:02:18:128]: MainEngineThread is returning 1603
+=== Verbose logging stopped: 7/7/2026  12:02:18 ===
+
