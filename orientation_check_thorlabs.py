@@ -25,6 +25,17 @@ def load_camera_settings(cam, filepath):
 cam = uc480.UC480Camera()
 try:
     load_camera_settings(cam, SETTINGS_FILE)
+
+    # Set exposure time (seconds).
+    actual_exposure = cam.set_exposure(0.007)
+    print(f'Exposure set to {actual_exposure} s (requested 0.007)')
+    print(f'get_exposure() reports {cam.get_exposure()} s')
+
+    # Discard a couple of frames: exposure changes take a frame or two to
+    # fully apply on a rolling-shutter sensor, so the first grab(s) right
+    # after set_exposure() can be a partial/transitional frame.
+    cam.snap()
+    cam.snap()
     frame = cam.snap()  # (rows, cols, 3) BGR for color cameras, (rows, cols) for mono
 finally:
     cam.close()
@@ -39,7 +50,7 @@ else:
 rows, cols = img_rgb.shape[:2]
 
 # --- save raw array for later numpy analysis ---
-npy_path = os.path.join(SCRIPT_DIR, 'captured_frame_thorlabs.npy')
+npy_path = os.path.join(SCRIPT_DIR, 'captured_frame_thorlabs_on.npy')
 np.save(npy_path, img_rgb)
 print(f'Saved raw array to {npy_path}')
 
@@ -50,7 +61,7 @@ plt.xlabel('Column index (0 = left)')
 plt.ylabel('Row index (0 = top)')
 plt.title(f'Captured frame ({rows} rows x {cols} cols)')
 
-plot_path = os.path.join(SCRIPT_DIR, 'orientation_check_thorlabs_plot.png')
+plot_path = os.path.join(SCRIPT_DIR, 'orientation_check_thorlabs_plot_on.png')
 plt.savefig(plot_path)
 print(f'Saved plot to {plot_path}')
 
